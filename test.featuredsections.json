@@ -1,0 +1,297 @@
+[{
+  "_id": {
+    "$oid": "6915e3404a8ee95490b5c595"
+  },
+  "title": "FC1",
+  "slug": "baby-care",
+  "description": "",
+  "imageUrl": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763042107/uploads/x5qzd8oa3lhhaokggyqw.png",
+  "color": "#ffffcc",
+  "order": 1,
+  "position": "TOP",
+  "metaTitle": "",
+  "metaDescription": "",
+  "isActive": true,
+  "isClickable": false,
+  "mapType": "SUBCATEGORY",
+  "mappings": [
+    {
+      "type": "SUBCATEGORY",
+      "refId": {
+        "$oid": "691733064a8ee95490b5fe99"
+      },
+      "externalUrl": null
+    },
+    {
+      "type": "SUBCATEGORY",
+      "refId": {
+        "$oid": "691733674a8ee95490b5fed4"
+      },
+      "externalUrl": null
+    },
+    {
+      "type": "SUBCATEGORY",
+      "refId": {
+        "$oid": "6917339a4a8ee95490b5ff2b"
+      },
+      "externalUrl": null
+    },
+    {
+      "type": "SUBCATEGORY",
+      "refId": {
+        "$oid": "691733ef4a8ee95490b5ffeb"
+      },
+      "externalUrl": null
+    },
+    {
+      "type": "SUBCATEGORY",
+      "refId": {
+        "$oid": "6917344c4a8ee95490b6000e"
+      },
+      "externalUrl": null
+    }
+  ],
+  "masterCategory": {
+    "$oid": "69125a838dca74fbfecd6c2b"
+  },
+  "category": {
+    "$oid": "6914a604949430af41091722"
+  },
+  "subcategory": [],
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2025-11-13T13:55:12.869Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-14T15:00:50.799Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6915e9054a8ee95490b5caef"
+  },
+  "title": "fp1",
+  "slug": "chip-namkeen/bhujia-mix",
+  "description": "",
+  "imageUrl": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763052595/uploads/u92cjjlil51z0ms5cwyg.png",
+  "color": "#97a2f1",
+  "order": 2,
+  "position": "TOP",
+  "metaTitle": "",
+  "metaDescription": "",
+  "isActive": true,
+  "isClickable": false,
+  "mapType": "PRODUCT",
+  "mappings": [
+    {
+      "type": "PRODUCT",
+      "refId": {
+        "$oid": "691600394a8ee95490b5dc4b"
+      },
+      "externalUrl": null
+    }
+  ],
+  "masterCategory": {
+    "$oid": "69125a838dca74fbfecd6c2b"
+  },
+  "category": {
+    "$oid": "69133c639043f888dc5b5e9a"
+  },
+  "subcategory": [
+    {
+      "$oid": "69159e7621b16c4d7533d724"
+    }
+  ],
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2025-11-13T14:19:49.687Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-13T17:00:04.675Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69160de54a8ee95490b5e23e"
+  },
+  "title": "adsfaf",
+  "slug": "chip-namkeen",
+  "description": "",
+  "imageUrl": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763053150/uploads/mf8fqendd3jk7p7l0pz6.png",
+  "color": "#2a3051",
+  "order": 3,
+  "position": "MIDDLE",
+  "metaTitle": "",
+  "metaDescription": "",
+  "isActive": true,
+  "isClickable": false,
+  "mapType": "PRODUCT",
+  "mappings": [
+    {
+      "type": "PRODUCT",
+      "refId": {
+        "$oid": "69160a864a8ee95490b5e06a"
+      },
+      "externalUrl": null
+    }
+  ],
+  "masterCategory": {
+    "$oid": "69125a838dca74fbfecd6c2b"
+  },
+  "category": {
+    "$oid": "69133c639043f888dc5b5e9a"
+  },
+  "subcategory": [],
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2025-11-13T16:57:09.610Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-13T16:59:12.820Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69160f274a8ee95490b5e408"
+  },
+  "title": "sdgvsb",
+  "slug": "dairybreadeggs-dairybreadeggs",
+  "description": "",
+  "imageUrl": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763053349/uploads/fsvxpqmgrbaxwjwagmfj.png",
+  "color": "#ff1000",
+  "order": 4,
+  "position": "BOTTOM",
+  "metaTitle": "",
+  "metaDescription": "",
+  "isActive": true,
+  "isClickable": false,
+  "mapType": "PRODUCT",
+  "mappings": [
+    {
+      "type": "PRODUCT",
+      "refId": {
+        "$oid": "691600064a8ee95490b5dc25"
+      },
+      "externalUrl": null
+    }
+  ],
+  "masterCategory": {
+    "$oid": "69125a838dca74fbfecd6c2b"
+  },
+  "category": {
+    "$oid": "69131b539043f888dc5b54a5"
+  },
+  "subcategory": [],
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2025-11-13T17:02:31.998Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-13T17:02:31.998Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6917436c4a8ee95490b60ced"
+  },
+  "title": "fc2",
+  "slug": "chip-namkeen/chip-wafer",
+  "description": "",
+  "imageUrl": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763132406/uploads/zrt0ycliwi0uyjeuasic.png",
+  "color": "#d71f26",
+  "order": 6,
+  "position": "TOP",
+  "metaTitle": "",
+  "metaDescription": "",
+  "isActive": true,
+  "isClickable": false,
+  "mapType": "SUBCATEGORY",
+  "mappings": [
+    {
+      "type": "SUBCATEGORY",
+      "refId": {
+        "$oid": "69159e4721b16c4d7533d70d"
+      },
+      "externalUrl": null
+    },
+    {
+      "type": "SUBCATEGORY",
+      "refId": {
+        "$oid": "6915a18521b16c4d7533d780"
+      },
+      "externalUrl": null
+    },
+    {
+      "type": "SUBCATEGORY",
+      "refId": {
+        "$oid": "69159e7621b16c4d7533d724"
+      },
+      "externalUrl": null
+    },
+    {
+      "type": "SUBCATEGORY",
+      "refId": {
+        "$oid": "6915a1fb21b16c4d7533d797"
+      },
+      "externalUrl": null
+    },
+    {
+      "type": "SUBCATEGORY",
+      "refId": {
+        "$oid": "69159f8d21b16c4d7533d73b"
+      },
+      "externalUrl": null
+    },
+    {
+      "type": "SUBCATEGORY",
+      "refId": {
+        "$oid": "6915a22b21b16c4d7533d7ae"
+      },
+      "externalUrl": null
+    },
+    {
+      "type": "SUBCATEGORY",
+      "refId": {
+        "$oid": "69159fed21b16c4d7533d752"
+      },
+      "externalUrl": null
+    },
+    {
+      "type": "SUBCATEGORY",
+      "refId": {
+        "$oid": "6915a24821b16c4d7533d7c5"
+      },
+      "externalUrl": null
+    },
+    {
+      "type": "SUBCATEGORY",
+      "refId": {
+        "$oid": "6915a04221b16c4d7533d769"
+      },
+      "externalUrl": null
+    }
+  ],
+  "masterCategory": {
+    "$oid": "69125a838dca74fbfecd6c2b"
+  },
+  "category": {
+    "$oid": "69133c639043f888dc5b5e9a"
+  },
+  "subcategory": [
+    {
+      "$oid": "69159e4721b16c4d7533d70d"
+    }
+  ],
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2025-11-14T14:57:48.619Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-14T15:00:10.167Z"
+  },
+  "__v": 0
+}]

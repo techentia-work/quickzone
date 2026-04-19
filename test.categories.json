@@ -1,0 +1,7820 @@
+[{
+  "_id": {
+    "$oid": "69125a838dca74fbfecd6c2b"
+  },
+  "name": "Groceries",
+  "slug": "grocery",
+  "subtitle": "Top quality groceries for your daily needs",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1762872116/uploads/dkbhucd1ah8drvndhf69.png",
+  "metaTitle": "Best Groceries Online - Fresh & Organic",
+  "metaKeywords": "groceries, fresh, organic, best groceries, daily essentials, online shopping",
+  "metaDescription": "Shop fresh and affordable groceries online. Get everything you need delivered to your doorstep",
+  "markup": "<p>Explore our wide range of grocery products, from fresh produce to pantry essentials.</p>",
+  "type": "MASTER",
+  "parent": null,
+  "ancestors": [],
+  "path": [
+    "grocery"
+  ],
+  "level": 1,
+  "order": 1,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-10T21:34:59.471Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-11T23:12:11.562Z"
+  },
+  "fullSlug": "grocery",
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "69125a838dca74fbfecd6c2e"
+  },
+  "name": "Cafe",
+  "slug": "cafe-fastfood",
+  "subtitle": "Top beauty products for all your needs",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1762870196/uploads/ft2yljy915zsvu961ps4.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "<p>Explore our wide range of beauty products to look and feel your best.</p>",
+  "type": "MASTER",
+  "parent": null,
+  "ancestors": [],
+  "path": [
+    "beauty"
+  ],
+  "level": 1,
+  "order": 2,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-10T21:34:59.552Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-11T14:15:27.150Z"
+  },
+  "fullSlug": "beauty",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69125a838dca74fbfecd6c31"
+  },
+  "name": "Grocery & Kitchen",
+  "slug": "grocery-kitchen",
+  "subtitle": "Top quality grocery and kitchen products",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1760094340/uploads/xeoem5yjx8yvaisyfuov.jpg",
+  "metaTitle": "Grocery and Kitchen Online - Fresh & Premium",
+  "metaKeywords": "",
+  "metaDescription": "Shop the best grocery and kitchen essentials online with fast delivery",
+  "markup": "<p>Discover our wide range of grocery and kitchen essentials.</p>",
+  "type": "SUPER",
+  "parent": {
+    "$oid": "69125a838dca74fbfecd6c2b"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    }
+  ],
+  "path": [
+    "grocery",
+    "grocery-kitchen"
+  ],
+  "level": 2,
+  "order": 1,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-10T21:34:59.645Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-11T23:12:11.708Z"
+  },
+  "fullSlug": "grocery/grocery-kitchen",
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "69125a838dca74fbfecd6c35"
+  },
+  "name": "Snacks & Drinks",
+  "slug": "snacks-drinks",
+  "subtitle": "Tasty snacks and refreshing drinks",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1760094839/uploads/qozmplotduzpilqmn1bs.jpg",
+  "metaTitle": "Snacks & Drinks Online - Best Selection",
+  "metaKeywords": "snacks, drinks, beverages, tasty, online shopping",
+  "metaDescription": "Shop a wide range of snacks and drinks online with fast delivery",
+  "markup": "<p>Discover delicious snacks and refreshing drinks for every occasion.</p>",
+  "type": "SUPER",
+  "parent": {
+    "$oid": "69125a838dca74fbfecd6c2b"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    }
+  ],
+  "path": [
+    "grocery",
+    "snacks-drinks"
+  ],
+  "level": 2,
+  "order": 2,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-10T21:34:59.762Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-11T23:12:13.008Z"
+  },
+  "fullSlug": "grocery/snacks-drinks",
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "69125a838dca74fbfecd6c39"
+  },
+  "name": "Beauty & Skincare",
+  "slug": "beauty-skincare",
+  "subtitle": "Premium beauty and skincare products",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1760095828/uploads/xhhfitn2zuedjqxmkgoh.avif",
+  "metaTitle": "Beauty & Skincare Online - Skincare & Cosmetics",
+  "metaKeywords": "beauty, skincare, cosmetics, personal care, online shopping, premium",
+  "metaDescription": "Shop premium beauty and skincare products online including skincare, makeup, and personal care essentials",
+  "markup": "<p>Discover our curated range of beauty and skincare products for all skin types.</p>",
+  "type": "SUPER",
+  "parent": {
+    "$oid": "69125a838dca74fbfecd6c2e"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2e"
+    }
+  ],
+  "path": [
+    "beauty",
+    "beauty-skincare"
+  ],
+  "level": 2,
+  "order": 1,
+  "isActive": true,
+  "isDeleted": true,
+  "deletedAt": {
+    "$date": "2025-11-11T15:02:15.120Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-10T21:34:59.910Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-11T15:02:15.120Z"
+  },
+  "fullSlug": "beauty/beauty-skincare",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69125a848dca74fbfecd6c3d"
+  },
+  "name": "Fruits & Vegetables",
+  "slug": "fruits-vegetables",
+  "subtitle": "Fresh fruits and vegetables delivered to your doorstep",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1760098597/uploads/br6t7biueshppyzrg4gm.jpg",
+  "metaTitle": "Fruits & Vegetables Online - Fresh & Organic",
+  "metaKeywords": "fruits, vegetables, fresh, organic, groceries, online shopping",
+  "metaDescription": "Shop fresh and organic fruits and vegetables online with fast delivery",
+  "markup": "<p>Explore our selection of fresh fruits and vegetables for a healthy lifestyle.</p>",
+  "type": "CATEGORY",
+  "parent": {
+    "$oid": "69125a838dca74fbfecd6c31"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c31"
+    }
+  ],
+  "path": [
+    "groceries",
+    "grocery-kitchen",
+    "fruits-vegetables"
+  ],
+  "level": 3,
+  "order": 1,
+  "isActive": true,
+  "isDeleted": true,
+  "deletedAt": {
+    "$date": "2025-11-11T13:35:51.067Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-10T21:35:00.012Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-11T13:35:51.067Z"
+  },
+  "fullSlug": "groceries/grocery-kitchen/fruits-vegetables",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69125a848dca74fbfecd6c41"
+  },
+  "name": "Dairy, Bread & Eggs",
+  "slug": "dairy-bread-eggs",
+  "subtitle": "Fresh dairy products, bread, and eggs",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1760098641/uploads/cet6mhhapeywblz0cs8w.webp",
+  "metaTitle": "Dairy, Bread & Eggs Online - Fresh & Healthy",
+  "metaKeywords": "dairy, bread, eggs, groceries, fresh, online shopping",
+  "metaDescription": "Shop fresh dairy products, bread, and eggs online with fast delivery",
+  "markup": "<p>Get daily essentials like milk, cheese, bread, and eggs delivered to your doorstep.</p>",
+  "type": "CATEGORY",
+  "parent": {
+    "$oid": "69125a838dca74fbfecd6c31"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c31"
+    }
+  ],
+  "path": [
+    "groceries",
+    "grocery-kitchen",
+    "dairy-bread-eggs"
+  ],
+  "level": 3,
+  "order": 2,
+  "isActive": true,
+  "isDeleted": true,
+  "deletedAt": {
+    "$date": "2025-11-11T13:35:58.125Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-10T21:35:00.136Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-11T13:35:58.125Z"
+  },
+  "fullSlug": "groceries/grocery-kitchen/dairy-bread-eggs",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69125a848dca74fbfecd6c45"
+  },
+  "name": "Breakfast & Sauces",
+  "slug": "breakfast-sauces",
+  "subtitle": "All your breakfast essentials and sauces",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1760098689/uploads/y0cxd0uozaznq9rtwuas.webp",
+  "metaTitle": "Breakfast & Sauces Online - Quick & Tasty",
+  "metaKeywords": "breakfast, sauces, groceries, condiments, online shopping",
+  "metaDescription": "Shop breakfast items and sauces online for your daily meals",
+  "markup": "<p>Find cereals, spreads, and sauces for your breakfast and cooking needs.</p>",
+  "type": "CATEGORY",
+  "parent": {
+    "$oid": "69125a838dca74fbfecd6c31"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c31"
+    }
+  ],
+  "path": [
+    "groceries",
+    "grocery-kitchen",
+    "breakfast-sauces"
+  ],
+  "level": 3,
+  "order": 3,
+  "isActive": true,
+  "isDeleted": true,
+  "deletedAt": {
+    "$date": "2025-11-11T13:36:02.582Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-10T21:35:00.460Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-11T13:36:02.586Z"
+  },
+  "fullSlug": "groceries/grocery-kitchen/breakfast-sauces",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69125a848dca74fbfecd6c49"
+  },
+  "name": "Packaged Food",
+  "slug": "packaged-food",
+  "subtitle": "Ready-to-eat and packaged food items",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1760098719/uploads/qo79mduzf4jmymlwcsbe.webp",
+  "metaTitle": "Packaged Food Online - Quick & Convenient",
+  "metaKeywords": "packaged food, ready-to-eat, groceries, snacks, online shopping",
+  "metaDescription": "Shop packaged and ready-to-eat food items online",
+  "markup": "<p>Explore a variety of packaged foods for your convenience.</p>",
+  "type": "CATEGORY",
+  "parent": {
+    "$oid": "69125a838dca74fbfecd6c31"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c31"
+    }
+  ],
+  "path": [
+    "groceries",
+    "grocery-kitchen",
+    "packaged-food"
+  ],
+  "level": 3,
+  "order": 4,
+  "isActive": true,
+  "isDeleted": true,
+  "deletedAt": {
+    "$date": "2025-11-11T13:36:10.348Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-10T21:35:00.556Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-11T13:36:10.349Z"
+  },
+  "fullSlug": "groceries/grocery-kitchen/packaged-food",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69125a848dca74fbfecd6c4d"
+  },
+  "name": "Sweet Cravings",
+  "slug": "sweet-cravings",
+  "subtitle": "Delicious sweets and desserts",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1760098811/uploads/qqgmbl1dtwkaztjejzyz.webp",
+  "metaTitle": "Sweet Cravings Online - Treat Yourself",
+  "metaKeywords": "sweets, desserts, chocolates, groceries, online shopping",
+  "metaDescription": "Shop sweets, chocolates, and desserts online",
+  "markup": "<p>Satisfy your sweet tooth with our selection of treats.</p>",
+  "type": "CATEGORY",
+  "parent": {
+    "$oid": "69125a838dca74fbfecd6c35"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c35"
+    }
+  ],
+  "path": [
+    "groceries",
+    "snacks-drinks",
+    "sweet-cravings"
+  ],
+  "level": 3,
+  "order": 1,
+  "isActive": true,
+  "isDeleted": true,
+  "deletedAt": {
+    "$date": "2025-11-11T14:03:29.316Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-10T21:35:00.674Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-11T14:03:29.316Z"
+  },
+  "fullSlug": "groceries/snacks-drinks/sweet-cravings",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69125a848dca74fbfecd6c51"
+  },
+  "name": "Cold Drinks & Juices",
+  "slug": "cold-drinks-juices",
+  "subtitle": "Refreshing beverages for every occasion",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1760098862/uploads/bmgb2wsncrkjbduetmif.webp",
+  "metaTitle": "Cold Drinks & Juices Online - Fresh & Chilled",
+  "metaKeywords": "cold drinks, juices, beverages, groceries, online shopping",
+  "metaDescription": "Shop refreshing cold drinks and juices online",
+  "markup": "<p>Stay refreshed with our collection of drinks and juices.</p>",
+  "type": "CATEGORY",
+  "parent": {
+    "$oid": "69125a838dca74fbfecd6c35"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c35"
+    }
+  ],
+  "path": [
+    "groceries",
+    "snacks-drinks",
+    "cold-drinks-juices"
+  ],
+  "level": 3,
+  "order": 2,
+  "isActive": true,
+  "isDeleted": true,
+  "deletedAt": {
+    "$date": "2025-11-11T14:03:33.035Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-10T21:35:00.795Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-11T14:03:33.035Z"
+  },
+  "fullSlug": "groceries/snacks-drinks/cold-drinks-juices",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69125a848dca74fbfecd6c55"
+  },
+  "name": "Biscuits & Cookies",
+  "slug": "biscuits-cookies",
+  "subtitle": "Tasty biscuits and cookies",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1760098885/uploads/fzz5yc9u80bgi07yjkaj.webp",
+  "metaTitle": "Biscuits & Cookies Online - Delicious & Crunchy",
+  "metaKeywords": "biscuits, cookies, snacks, groceries, online shopping",
+  "metaDescription": "Shop a wide variety of biscuits and cookies online",
+  "markup": "<p>Enjoy our delicious biscuits and cookies anytime.</p>",
+  "type": "CATEGORY",
+  "parent": {
+    "$oid": "69125a838dca74fbfecd6c35"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c35"
+    }
+  ],
+  "path": [
+    "groceries",
+    "snacks-drinks",
+    "biscuits-cookies"
+  ],
+  "level": 3,
+  "order": 3,
+  "isActive": true,
+  "isDeleted": true,
+  "deletedAt": {
+    "$date": "2025-11-11T14:03:35.889Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-10T21:35:00.899Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-11T14:03:35.889Z"
+  },
+  "fullSlug": "groceries/snacks-drinks/biscuits-cookies",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69125a858dca74fbfecd6c59"
+  },
+  "name": "Ice Creams & More",
+  "slug": "ice-creams-more",
+  "subtitle": "Frozen desserts and ice creams",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1760098917/uploads/teljkpdmrtohbbpytqzn.webp",
+  "metaTitle": "Ice Creams & More Online - Cool & Tasty",
+  "metaKeywords": "ice cream, frozen desserts, groceries, online shopping",
+  "metaDescription": "Shop ice creams and frozen desserts online",
+  "markup": "<p>Cool off with our range of ice creams and desserts.</p>",
+  "type": "CATEGORY",
+  "parent": {
+    "$oid": "69125a838dca74fbfecd6c35"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c35"
+    }
+  ],
+  "path": [
+    "groceries",
+    "snacks-drinks",
+    "ice-creams-more"
+  ],
+  "level": 3,
+  "order": 4,
+  "isActive": true,
+  "isDeleted": true,
+  "deletedAt": {
+    "$date": "2025-11-11T14:03:39.221Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-10T21:35:01.001Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-11T14:03:39.221Z"
+  },
+  "fullSlug": "groceries/snacks-drinks/ice-creams-more",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69125a858dca74fbfecd6c5d"
+  },
+  "name": "Skin Care",
+  "slug": "skin-care",
+  "subtitle": "Premium skincare products",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1760098948/uploads/euszj2gqpxictnsvabjk.webp",
+  "metaTitle": "Skin Care Online - Healthy & Radiant",
+  "metaKeywords": "skincare, beauty, personal care, online shopping",
+  "metaDescription": "Shop premium skincare products online",
+  "markup": "<p>Maintain healthy and radiant skin with our products.</p>",
+  "type": "CATEGORY",
+  "parent": {
+    "$oid": "69125a838dca74fbfecd6c39"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2e"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c39"
+    }
+  ],
+  "path": [
+    "beauty",
+    "beauty-skincare",
+    "skin-care"
+  ],
+  "level": 3,
+  "order": 1,
+  "isActive": true,
+  "isDeleted": true,
+  "deletedAt": {
+    "$date": "2025-11-11T15:02:15.130Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-10T21:35:01.150Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-11T15:02:15.131Z"
+  },
+  "fullSlug": "beauty/beauty-skincare/skin-care",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69125a858dca74fbfecd6c61"
+  },
+  "name": "Hair Care",
+  "slug": "hair-care",
+  "subtitle": "Hair care essentials",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1760098971/uploads/wqmfadshuoyw77kdob9o.webp",
+  "metaTitle": "Hair Care Online - Strong & Healthy Hair",
+  "metaKeywords": "hair care, shampoos, conditioners, beauty, online shopping",
+  "metaDescription": "Shop shampoos, conditioners, and hair care products online",
+  "markup": "<p>Take care of your hair with our quality products.</p>",
+  "type": "CATEGORY",
+  "parent": {
+    "$oid": "69125a838dca74fbfecd6c39"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2e"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c39"
+    }
+  ],
+  "path": [
+    "beauty",
+    "beauty-skincare",
+    "hair-care"
+  ],
+  "level": 3,
+  "order": 2,
+  "isActive": true,
+  "isDeleted": true,
+  "deletedAt": {
+    "$date": "2025-11-11T15:02:15.130Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-10T21:35:01.279Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-11T15:02:15.131Z"
+  },
+  "fullSlug": "beauty/beauty-skincare/hair-care",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69125a858dca74fbfecd6c65"
+  },
+  "name": "Make Up & Beauty",
+  "slug": "make-up-beauty",
+  "subtitle": "Cosmetics and beauty products",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1760099015/uploads/y3yylhcejx03i9bscfue.webp",
+  "metaTitle": "Make Up & Beauty Online - Look Stunning",
+  "metaKeywords": "makeup, cosmetics, beauty, personal care, online shopping",
+  "metaDescription": "Shop makeup and beauty products online",
+  "markup": "<p>Enhance your beauty with our makeup and cosmetic range.</p>",
+  "type": "CATEGORY",
+  "parent": {
+    "$oid": "69125a838dca74fbfecd6c39"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2e"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c39"
+    }
+  ],
+  "path": [
+    "beauty",
+    "beauty-skincare",
+    "make-up-beauty"
+  ],
+  "level": 3,
+  "order": 3,
+  "isActive": true,
+  "isDeleted": true,
+  "deletedAt": {
+    "$date": "2025-11-11T15:02:15.130Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-10T21:35:01.396Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-11T15:02:15.131Z"
+  },
+  "fullSlug": "beauty/beauty-skincare/make-up-beauty",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69125a858dca74fbfecd6c69"
+  },
+  "name": "Protein & Nutrition",
+  "slug": "protein-nutrition",
+  "subtitle": "Protein supplements and nutrition products",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1760099052/uploads/fuhhx83xydz1wofnerfb.webp",
+  "metaTitle": "Protein & Nutrition Online - Healthy Lifestyle",
+  "metaKeywords": "protein, nutrition, supplements, fitness, online shopping",
+  "metaDescription": "Shop protein supplements and nutrition products online",
+  "markup": "<p>Support your health and fitness goals with our products.</p>",
+  "type": "CATEGORY",
+  "parent": {
+    "$oid": "69125a838dca74fbfecd6c39"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2e"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c39"
+    }
+  ],
+  "path": [
+    "beauty",
+    "beauty-skincare",
+    "protein-nutrition"
+  ],
+  "level": 3,
+  "order": 4,
+  "isActive": true,
+  "isDeleted": true,
+  "deletedAt": {
+    "$date": "2025-11-11T15:02:15.130Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-10T21:35:01.497Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-11T15:02:15.131Z"
+  },
+  "fullSlug": "beauty/beauty-skincare/protein-nutrition",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69125a858dca74fbfecd6c6d"
+  },
+  "name": "Bath & Body",
+  "slug": "bath-body",
+  "subtitle": "Bath and body care essentials",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1760099071/uploads/zlieas7pyhmfwyolxpcp.webp",
+  "metaTitle": "Bath & Body Online - Refresh & Rejuvenate",
+  "metaKeywords": "bath, body, personal care, beauty, online shopping",
+  "metaDescription": "Shop bath and body care products online",
+  "markup": "<p>Pamper yourself with our bath and body care range.</p>",
+  "type": "CATEGORY",
+  "parent": {
+    "$oid": "69125a838dca74fbfecd6c39"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2e"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c39"
+    }
+  ],
+  "path": [
+    "beauty",
+    "beauty-skincare",
+    "bath-body"
+  ],
+  "level": 3,
+  "order": 5,
+  "isActive": true,
+  "isDeleted": true,
+  "deletedAt": {
+    "$date": "2025-11-11T15:02:15.130Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-10T21:35:01.596Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-11T15:02:15.131Z"
+  },
+  "fullSlug": "beauty/beauty-skincare/bath-body",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69125a858dca74fbfecd6c71"
+  },
+  "name": "Fresh Fruits",
+  "slug": "fresh-fruits",
+  "subtitle": "Juicy and fresh fruits delivered to you",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1760099133/uploads/zjmeqw1zey5r7axzvd69.webp",
+  "metaTitle": "Fresh Fruits Online - Healthy & Organic",
+  "metaKeywords": "fresh fruits, organic, groceries, healthy, online shopping",
+  "metaDescription": "Shop fresh fruits online for a healthy and nutritious diet",
+  "markup": "<p>Enjoy a wide selection of fresh and organic fruits.</p>",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "69125a848dca74fbfecd6c3d"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c31"
+    },
+    {
+      "$oid": "69125a848dca74fbfecd6c3d"
+    }
+  ],
+  "path": [
+    "groceries",
+    "grocery-kitchen",
+    "fruits-vegetables",
+    "fresh-fruits"
+  ],
+  "level": 4,
+  "order": 1,
+  "isActive": true,
+  "isDeleted": true,
+  "deletedAt": {
+    "$date": "2025-11-11T13:35:51.092Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-10T21:35:01.722Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-11T13:35:51.093Z"
+  },
+  "fullSlug": "groceries/grocery-kitchen/fruits-vegetables/fresh-fruits",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69125a858dca74fbfecd6c75"
+  },
+  "name": "Fresh Vegetables",
+  "slug": "fresh-vegetables",
+  "subtitle": "Crisp and fresh vegetables delivered to your doorstep",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1760099152/uploads/a15yxvfs8jg19pesagkd.webp",
+  "metaTitle": "Fresh Vegetables Online - Organic & Healthy",
+  "metaKeywords": "fresh vegetables, organic, groceries, healthy, online shopping",
+  "metaDescription": "Shop fresh vegetables online to maintain a healthy lifestyle",
+  "markup": "<p>Find fresh and nutritious vegetables for all your meals.</p>",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "69125a848dca74fbfecd6c3d"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c31"
+    },
+    {
+      "$oid": "69125a848dca74fbfecd6c3d"
+    }
+  ],
+  "path": [
+    "groceries",
+    "grocery-kitchen",
+    "fruits-vegetables",
+    "fresh-vegetables"
+  ],
+  "level": 4,
+  "order": 2,
+  "isActive": true,
+  "isDeleted": true,
+  "deletedAt": {
+    "$date": "2025-11-11T13:35:51.092Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-10T21:35:01.848Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-11T13:35:51.093Z"
+  },
+  "fullSlug": "groceries/grocery-kitchen/fruits-vegetables/fresh-vegetables",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69125a858dca74fbfecd6c79"
+  },
+  "name": "Exotics & Premium",
+  "slug": "exotics-premium",
+  "subtitle": "Premium and exotic fruits and vegetables",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1760099170/uploads/f5eeucqywh4mp2umvmsh.webp",
+  "metaTitle": "Exotic & Premium Produce Online",
+  "metaKeywords": "exotic fruits, premium vegetables, groceries, online shopping",
+  "metaDescription": "Shop exotic and premium fruits and vegetables online",
+  "markup": "<p>Discover rare and premium fruits and vegetables.</p>",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "69125a848dca74fbfecd6c3d"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c31"
+    },
+    {
+      "$oid": "69125a848dca74fbfecd6c3d"
+    }
+  ],
+  "path": [
+    "groceries",
+    "grocery-kitchen",
+    "fruits-vegetables",
+    "exotics-premium"
+  ],
+  "level": 4,
+  "order": 3,
+  "isActive": true,
+  "isDeleted": true,
+  "deletedAt": {
+    "$date": "2025-11-11T13:35:51.092Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-10T21:35:01.947Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-11T13:35:51.093Z"
+  },
+  "fullSlug": "groceries/grocery-kitchen/fruits-vegetables/exotics-premium",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69125a868dca74fbfecd6c7d"
+  },
+  "name": "Milk",
+  "slug": "milk",
+  "subtitle": "Fresh and pure milk",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1760099232/uploads/d5dbjp1rzar8av392d5t.webp",
+  "metaTitle": "Milk Online - Fresh & Healthy",
+  "metaKeywords": "milk, dairy, fresh, groceries, online shopping",
+  "metaDescription": "Get fresh milk delivered to your home daily",
+  "markup": "<p>Enjoy daily fresh milk from trusted sources.</p>",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "69125a848dca74fbfecd6c41"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c31"
+    },
+    {
+      "$oid": "69125a848dca74fbfecd6c41"
+    }
+  ],
+  "path": [
+    "groceries",
+    "grocery-kitchen",
+    "dairy-bread-eggs",
+    "milk"
+  ],
+  "level": 4,
+  "order": 1,
+  "isActive": true,
+  "isDeleted": true,
+  "deletedAt": {
+    "$date": "2025-11-11T13:35:58.135Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-10T21:35:02.057Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-11T13:35:58.135Z"
+  },
+  "fullSlug": "groceries/grocery-kitchen/dairy-bread-eggs/milk",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69125a868dca74fbfecd6c81"
+  },
+  "name": "Cheese",
+  "slug": "cheese",
+  "subtitle": "Premium quality cheese",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1760099261/uploads/hii3gscy82nl0tea8lgc.webp",
+  "metaTitle": "Cheese Online - Fresh & Tasty",
+  "metaKeywords": "cheese, dairy, groceries, fresh, online shopping",
+  "metaDescription": "Shop a variety of fresh and delicious cheeses online",
+  "markup": "<p>Choose from a wide range of fresh cheeses.</p>",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "69125a848dca74fbfecd6c41"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c31"
+    },
+    {
+      "$oid": "69125a848dca74fbfecd6c41"
+    }
+  ],
+  "path": [
+    "groceries",
+    "grocery-kitchen",
+    "dairy-bread-eggs",
+    "cheese"
+  ],
+  "level": 4,
+  "order": 2,
+  "isActive": true,
+  "isDeleted": true,
+  "deletedAt": {
+    "$date": "2025-11-11T13:35:58.135Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-10T21:35:02.197Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-11T13:35:58.135Z"
+  },
+  "fullSlug": "groceries/grocery-kitchen/dairy-bread-eggs/cheese",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69125a868dca74fbfecd6c85"
+  },
+  "name": "Fresh Bakery",
+  "slug": "fresh-bakery",
+  "subtitle": "Baked goods fresh from the oven",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1760099284/uploads/mrypqh1ozinlrfkadfps.webp",
+  "metaTitle": "Fresh Bakery Online - Bread & Pastries",
+  "metaKeywords": "bakery, bread, pastries, fresh, groceries, online shopping",
+  "metaDescription": "Get fresh bread, pastries, and bakery items delivered",
+  "markup": "<p>Delight in freshly baked bread and pastries every day.</p>",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "69125a848dca74fbfecd6c4d"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c35"
+    },
+    {
+      "$oid": "69125a848dca74fbfecd6c4d"
+    }
+  ],
+  "path": [
+    "groceries",
+    "snacks-drinks",
+    "sweet-cravings",
+    "fresh-bakery"
+  ],
+  "level": 4,
+  "order": 1,
+  "isActive": true,
+  "isDeleted": true,
+  "deletedAt": {
+    "$date": "2025-11-11T14:03:29.339Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-10T21:35:02.326Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-11T14:03:29.340Z"
+  },
+  "fullSlug": "groceries/snacks-drinks/sweet-cravings/fresh-bakery",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69125a868dca74fbfecd6c89"
+  },
+  "name": "Compact Powder",
+  "slug": "compact-powder",
+  "subtitle": "High-quality compact powders",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1760099390/uploads/qtm6cjpytxj4bd0uxp8p.jpg",
+  "metaTitle": "Compact Powder Online - Smooth & Flawless",
+  "metaKeywords": "compact powder, makeup, cosmetics, beauty, online shopping",
+  "metaDescription": "Shop premium compact powders for a flawless look",
+  "markup": "<p>Enhance your beauty with our premium compact powders.</p>",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "69125a858dca74fbfecd6c65"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2e"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c39"
+    },
+    {
+      "$oid": "69125a858dca74fbfecd6c65"
+    }
+  ],
+  "path": [
+    "beauty",
+    "beauty-skincare",
+    "make-up-beauty",
+    "compact-powder"
+  ],
+  "level": 4,
+  "order": 1,
+  "isActive": true,
+  "isDeleted": true,
+  "deletedAt": {
+    "$date": "2025-11-11T15:02:15.130Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-10T21:35:02.447Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-11T15:02:15.131Z"
+  },
+  "fullSlug": "beauty/beauty-skincare/make-up-beauty/compact-powder",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69125a868dca74fbfecd6c8d"
+  },
+  "name": "Whey Protein",
+  "slug": "whey-protein",
+  "subtitle": "High-quality whey protein for fitness",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1760099433/uploads/rtexm0fgad2wjfimkrkl.webp",
+  "metaTitle": "Whey Protein Online - Build Muscle & Strength",
+  "metaKeywords": "whey protein, supplements, fitness, nutrition, online shopping",
+  "metaDescription": "Shop whey protein supplements online for your fitness goals",
+  "markup": "<p>Support your health and fitness with premium whey protein.</p>",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "69125a858dca74fbfecd6c69"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2e"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c39"
+    },
+    {
+      "$oid": "69125a858dca74fbfecd6c69"
+    }
+  ],
+  "path": [
+    "beauty",
+    "beauty-skincare",
+    "protein-nutrition",
+    "whey-protein"
+  ],
+  "level": 4,
+  "order": 1,
+  "isActive": true,
+  "isDeleted": true,
+  "deletedAt": {
+    "$date": "2025-11-11T15:02:15.130Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-10T21:35:02.541Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-11T15:02:15.131Z"
+  },
+  "fullSlug": "beauty/beauty-skincare/protein-nutrition/whey-protein",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69125a868dca74fbfecd6c91"
+  },
+  "name": "Plant Protein",
+  "slug": "plant-protein",
+  "subtitle": "Plant-based protein for a healthy lifestyle",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1760099458/uploads/apiiqyacvvf3mjywwcny.webp",
+  "metaTitle": "Plant Protein Online - Vegan & Healthy",
+  "metaKeywords": "plant protein, vegan, supplements, fitness, online shopping",
+  "metaDescription": "Shop plant protein supplements online for a nutritious diet",
+  "markup": "<p>Boost your health with our range of plant-based proteins.</p>",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "69125a858dca74fbfecd6c69"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2e"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c39"
+    },
+    {
+      "$oid": "69125a858dca74fbfecd6c69"
+    }
+  ],
+  "path": [
+    "beauty",
+    "beauty-skincare",
+    "protein-nutrition",
+    "plant-protein"
+  ],
+  "level": 4,
+  "order": 2,
+  "isActive": true,
+  "isDeleted": true,
+  "deletedAt": {
+    "$date": "2025-11-11T15:02:15.130Z"
+  },
+  "createdAt": {
+    "$date": "2025-11-10T21:35:02.648Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-11T15:02:15.131Z"
+  },
+  "fullSlug": "beauty/beauty-skincare/protein-nutrition/plant-protein",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69131b539043f888dc5b54a5"
+  },
+  "name": "Breakfast,Dairy & more",
+  "slug": "dairybreadeggs-dairybreadeggs",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1762859855/uploads/trfhnidcqlhpkkxlzsyh.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "CATEGORY",
+  "parent": {
+    "$oid": "69125a838dca74fbfecd6c31"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c31"
+    }
+  ],
+  "path": [
+    "grocery",
+    "grocery-kitchen",
+    "dairybreadeggs-dairybreadeggs"
+  ],
+  "level": 3,
+  "order": 5,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-11T11:17:39.099Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-16T07:11:44.647Z"
+  },
+  "fullSlug": "grocery/grocery-kitchen/dairybreadeggs-dairybreadeggs",
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "69131d299043f888dc5b5621"
+  },
+  "name": "Atta,Meda, & Sooji",
+  "slug": "attarice-dal",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1762861833/uploads/iqrxca8abvd87goo7fsr.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "CATEGORY",
+  "parent": {
+    "$oid": "69125a838dca74fbfecd6c31"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c31"
+    }
+  ],
+  "path": [
+    "grocery",
+    "grocery-kitchen",
+    "attarice-dal"
+  ],
+  "level": 3,
+  "order": 6,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-11T11:25:29.582Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-16T07:12:18.001Z"
+  },
+  "fullSlug": "grocery/grocery-kitchen/attarice-dal",
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "691322aa9043f888dc5b5779"
+  },
+  "name": "Powder & Whole Masale",
+  "slug": "powder-wholemasale",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1762861734/uploads/nxyqu0i4ps5ouxtwnz7s.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "CATEGORY",
+  "parent": {
+    "$oid": "69125a838dca74fbfecd6c31"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c31"
+    }
+  ],
+  "path": [
+    "grocery",
+    "grocery-kitchen",
+    "powder-wholemasale"
+  ],
+  "level": 3,
+  "order": 7,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-11T11:48:58.310Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-11T23:12:12.291Z"
+  },
+  "fullSlug": "grocery/grocery-kitchen/powder-wholemasale",
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "691323699043f888dc5b58e4"
+  },
+  "name": "Bakery & Biscuits",
+  "slug": "bakery-biscuits",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1762861927/uploads/rpfq0cancohlilzjebvh.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "CATEGORY",
+  "parent": {
+    "$oid": "69125a838dca74fbfecd6c31"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c31"
+    }
+  ],
+  "path": [
+    "grocery",
+    "grocery-kitchen",
+    "bakery-biscuits"
+  ],
+  "level": 3,
+  "order": 8,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-11T11:52:09.921Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-11T23:12:12.434Z"
+  },
+  "fullSlug": "grocery/grocery-kitchen/bakery-biscuits",
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "691323a99043f888dc5b58fd"
+  },
+  "name": "Oil,Ghee & Refind",
+  "slug": "oil-ghee",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1762861988/uploads/ad17fw8ftpwvm6btjpmg.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "CATEGORY",
+  "parent": {
+    "$oid": "69125a838dca74fbfecd6c31"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c31"
+    }
+  ],
+  "path": [
+    "grocery",
+    "grocery-kitchen",
+    "oil-ghee"
+  ],
+  "level": 3,
+  "order": 9,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-11T11:53:13.810Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-11T23:12:12.581Z"
+  },
+  "fullSlug": "grocery/grocery-kitchen/oil-ghee",
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "691324069043f888dc5b5916"
+  },
+  "name": "Rice & Dal",
+  "slug": "rice-dal",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1762862081/uploads/wkvpu6hqfcjj5hfkpndu.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "CATEGORY",
+  "parent": {
+    "$oid": "69125a838dca74fbfecd6c31"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c31"
+    }
+  ],
+  "path": [
+    "grocery",
+    "grocery-kitchen",
+    "rice-dal"
+  ],
+  "level": 3,
+  "order": 10,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-11T11:54:46.856Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-11T23:12:12.722Z"
+  },
+  "fullSlug": "grocery/grocery-kitchen/rice-dal",
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "6913244f9043f888dc5b592f"
+  },
+  "name": "Dry Fruits & Cereals",
+  "slug": "dry-fruits",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1762862153/uploads/fysdcif5edeqqgq3rupl.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "CATEGORY",
+  "parent": {
+    "$oid": "69125a838dca74fbfecd6c31"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c31"
+    }
+  ],
+  "path": [
+    "grocery",
+    "grocery-kitchen",
+    "dry-fruits"
+  ],
+  "level": 3,
+  "order": 11,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-11T11:55:59.001Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-11T23:12:12.866Z"
+  },
+  "fullSlug": "grocery/grocery-kitchen/dry-fruits",
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "69133c639043f888dc5b5e9a"
+  },
+  "name": "Chips & Namkeen",
+  "slug": "chip-namkeen",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763115534/uploads/kyovypqdtmehobauahp1.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "CATEGORY",
+  "parent": {
+    "$oid": "69125a838dca74fbfecd6c35"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c35"
+    }
+  ],
+  "path": [
+    "grocery",
+    "snacks-drinks",
+    "chip-namkeen"
+  ],
+  "level": 3,
+  "order": 5,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-11T13:38:43.062Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-14T10:18:58.530Z"
+  },
+  "fullSlug": "grocery/snacks-drinks/chip-namkeen",
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "69133d479043f888dc5b5efd"
+  },
+  "name": "Instant Food",
+  "slug": "instant-food",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1762868545/uploads/n65xhmqrbxvfb7xgtujh.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "CATEGORY",
+  "parent": {
+    "$oid": "69125a838dca74fbfecd6c35"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c35"
+    }
+  ],
+  "path": [
+    "grocery",
+    "snacks-drinks",
+    "instant-food"
+  ],
+  "level": 3,
+  "order": 6,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-11T13:42:31.428Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-11T23:12:13.294Z"
+  },
+  "fullSlug": "grocery/snacks-drinks/instant-food",
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "69133ed29043f888dc5b5f22"
+  },
+  "name": "Frozen Food & Ice Cream",
+  "slug": "frozenfood-icecream",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1762868939/uploads/vivcamewesayzokybbba.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "CATEGORY",
+  "parent": {
+    "$oid": "69125a838dca74fbfecd6c35"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c35"
+    }
+  ],
+  "path": [
+    "grocery",
+    "snacks-drinks",
+    "frozenfood-icecream"
+  ],
+  "level": 3,
+  "order": 7,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-11T13:49:06.980Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-11T23:12:13.436Z"
+  },
+  "fullSlug": "grocery/snacks-drinks/frozenfood-icecream",
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "69133f029043f888dc5b5f39"
+  },
+  "name": "Sweets & Chocolates",
+  "slug": "sweet-choclates",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1762868993/uploads/lbz69pwwaz7l88tucnf3.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "CATEGORY",
+  "parent": {
+    "$oid": "69125a838dca74fbfecd6c35"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c35"
+    }
+  ],
+  "path": [
+    "grocery",
+    "snacks-drinks",
+    "sweet-choclates"
+  ],
+  "level": 3,
+  "order": 8,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-11T13:49:54.424Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-11T23:12:13.575Z"
+  },
+  "fullSlug": "grocery/snacks-drinks/sweet-choclates",
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "69133f809043f888dc5b5f8a"
+  },
+  "name": "Drinks & Juices",
+  "slug": "drink-juices",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1762869116/uploads/hznylvnlkkq5cyitk9hi.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "CATEGORY",
+  "parent": {
+    "$oid": "69125a838dca74fbfecd6c35"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c35"
+    }
+  ],
+  "path": [
+    "grocery",
+    "snacks-drinks",
+    "drink-juices"
+  ],
+  "level": 3,
+  "order": 9,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-11T13:52:00.757Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-11T23:12:13.718Z"
+  },
+  "fullSlug": "grocery/snacks-drinks/drink-juices",
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "6913403a9043f888dc5b5faf"
+  },
+  "name": "Paan Corner",
+  "slug": "paan-corner",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1762869302/uploads/z8orxggwpgnmnuzif2lz.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "CATEGORY",
+  "parent": {
+    "$oid": "69125a838dca74fbfecd6c35"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c35"
+    }
+  ],
+  "path": [
+    "grocery",
+    "snacks-drinks",
+    "paan-corner"
+  ],
+  "level": 3,
+  "order": 10,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-11T13:55:06.290Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-11T23:12:13.859Z"
+  },
+  "fullSlug": "grocery/snacks-drinks/paan-corner",
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "6913407c9043f888dc5b5fc8"
+  },
+  "name": "Sauces,Spread & more",
+  "slug": "sauces-spread",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1762869365/uploads/axxvh6bbvbmwmsiseitm.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "CATEGORY",
+  "parent": {
+    "$oid": "69125a838dca74fbfecd6c35"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c35"
+    }
+  ],
+  "path": [
+    "grocery",
+    "snacks-drinks",
+    "sauces-spread"
+  ],
+  "level": 3,
+  "order": 11,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-11T13:56:12.031Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-11T23:12:14.004Z"
+  },
+  "fullSlug": "grocery/snacks-drinks/sauces-spread",
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "691340b39043f888dc5b5fe1"
+  },
+  "name": "Tea,Coffee & Milk drinks",
+  "slug": "tea-coffee",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1762869426/uploads/kwc7nk1tpacambscunla.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "CATEGORY",
+  "parent": {
+    "$oid": "69125a838dca74fbfecd6c35"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c35"
+    }
+  ],
+  "path": [
+    "grocery",
+    "snacks-drinks",
+    "tea-coffee"
+  ],
+  "level": 3,
+  "order": 12,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-11T13:57:07.774Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-11T23:12:14.155Z"
+  },
+  "fullSlug": "grocery/snacks-drinks/tea-coffee",
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "69134eda9043f888dc5b6742"
+  },
+  "name": "Food",
+  "slug": "f-food",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1762873048/uploads/eokwpnl1spih7u27lteo.webp",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUPER",
+  "parent": {
+    "$oid": "69125a838dca74fbfecd6c2e"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2e"
+    }
+  ],
+  "path": [
+    "beauty",
+    "f-food"
+  ],
+  "level": 2,
+  "order": 2,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-11T14:57:30.103Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-11T14:57:30.103Z"
+  },
+  "fullSlug": "beauty/f-food",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69134ef79043f888dc5b675b"
+  },
+  "name": "Drinks",
+  "slug": "drink-d",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1762873076/uploads/s6kozalkj2inpxxrznbw.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUPER",
+  "parent": {
+    "$oid": "69125a838dca74fbfecd6c2e"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2e"
+    }
+  ],
+  "path": [
+    "beauty",
+    "drink-d"
+  ],
+  "level": 2,
+  "order": 3,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-11T14:57:59.844Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-11T14:57:59.844Z"
+  },
+  "fullSlug": "beauty/drink-d",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69134f2a9043f888dc5b67bc"
+  },
+  "name": "Pizza",
+  "slug": "pizza-f",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1762873129/uploads/hnnfuudaws32xskmc65p.webp",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "CATEGORY",
+  "parent": {
+    "$oid": "69134eda9043f888dc5b6742"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2e"
+    },
+    {
+      "$oid": "69134eda9043f888dc5b6742"
+    }
+  ],
+  "path": [
+    "beauty",
+    "f-food",
+    "pizza-f"
+  ],
+  "level": 3,
+  "order": 1,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-11T14:58:50.223Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-11T14:58:50.223Z"
+  },
+  "fullSlug": "beauty/f-food/pizza-f",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69134f5b9043f888dc5b67d5"
+  },
+  "name": "Burger",
+  "slug": "burger-f",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1762873178/uploads/vg3guhiz1bqcr3axrcep.jpg",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "CATEGORY",
+  "parent": {
+    "$oid": "69134eda9043f888dc5b6742"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2e"
+    },
+    {
+      "$oid": "69134eda9043f888dc5b6742"
+    }
+  ],
+  "path": [
+    "beauty",
+    "f-food",
+    "burger-f"
+  ],
+  "level": 3,
+  "order": 2,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-11T14:59:39.634Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-11T14:59:39.634Z"
+  },
+  "fullSlug": "beauty/f-food/burger-f",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69134fdd9043f888dc5b683c"
+  },
+  "name": "Chines Food",
+  "slug": "chines-food",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1762873308/uploads/q3ib0qkrxztvdcrrbuq3.jpg",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "CATEGORY",
+  "parent": {
+    "$oid": "69134eda9043f888dc5b6742"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2e"
+    },
+    {
+      "$oid": "69134eda9043f888dc5b6742"
+    }
+  ],
+  "path": [
+    "beauty",
+    "f-food",
+    "chines-food"
+  ],
+  "level": 3,
+  "order": 3,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-11T15:01:49.238Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-11T15:01:49.238Z"
+  },
+  "fullSlug": "beauty/f-food/chines-food",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691357ce9043f888dc5b6bab"
+  },
+  "name": "Milk",
+  "slug": "milk-f",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1762961841/uploads/jtytuphyppoibas4hpx4.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "69131b539043f888dc5b54a5"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c31"
+    },
+    {
+      "$oid": "69131b539043f888dc5b54a5"
+    }
+  ],
+  "path": [
+    "grocery",
+    "grocery-kitchen",
+    "dairybreadeggs-dairybreadeggs",
+    "milk-f"
+  ],
+  "level": 4,
+  "order": 1,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-11T15:35:42.817Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-12T15:37:24.706Z"
+  },
+  "fullSlug": "grocery/grocery-kitchen/dairybreadeggs-dairybreadeggs/milk-f",
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "69149fe6949430af41091495"
+  },
+  "name": "Beauty & Personal Care",
+  "slug": "beauty-peronal",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1762959333/uploads/quxhjqluujipdl9owwwr.jpg",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUPER",
+  "parent": {
+    "$oid": "69125a838dca74fbfecd6c2b"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    }
+  ],
+  "path": [
+    "grocery",
+    "beauty-peronal"
+  ],
+  "level": 2,
+  "order": 3,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-12T14:55:34.974Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-12T14:55:34.974Z"
+  },
+  "fullSlug": "grocery/beauty-peronal",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6914a037949430af410914b0"
+  },
+  "name": "Household Essentials",
+  "slug": "household-essentials",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1762959414/uploads/gvkudrwlvb752fit1s3c.jpg",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUPER",
+  "parent": {
+    "$oid": "69125a838dca74fbfecd6c2b"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    }
+  ],
+  "path": [
+    "grocery",
+    "household-essentials"
+  ],
+  "level": 2,
+  "order": 4,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-12T14:56:55.755Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-12T14:56:55.755Z"
+  },
+  "fullSlug": "grocery/household-essentials",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6914a1c8949430af410915e1"
+  },
+  "name": "Bread & Pav",
+  "slug": "bread-pav",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1762959811/uploads/avx0vskc0xyzbzuygqm2.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "69131b539043f888dc5b54a5"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c31"
+    },
+    {
+      "$oid": "69131b539043f888dc5b54a5"
+    }
+  ],
+  "path": [
+    "grocery",
+    "grocery-kitchen",
+    "dairybreadeggs-dairybreadeggs",
+    "bread-pav"
+  ],
+  "level": 4,
+  "order": 2,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-12T15:03:36.728Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-12T15:03:36.728Z"
+  },
+  "fullSlug": "grocery/grocery-kitchen/dairybreadeggs-dairybreadeggs/bread-pav",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6914a405949430af41091662"
+  },
+  "name": "Bath & Body",
+  "slug": "bath-body",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1762960384/uploads/xcuxlagywbstph4alm9z.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "CATEGORY",
+  "parent": {
+    "$oid": "69149fe6949430af41091495"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69149fe6949430af41091495"
+    }
+  ],
+  "path": [
+    "grocery",
+    "beauty-peronal",
+    "bath-body"
+  ],
+  "level": 3,
+  "order": 1,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-12T15:13:09.536Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-12T15:13:09.536Z"
+  },
+  "fullSlug": "grocery/beauty-peronal/bath-body",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6914a47c949430af41091687"
+  },
+  "name": "Hair Care",
+  "slug": "hair-care",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1762960501/uploads/daoqzcrqynxebi7iwdfh.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "CATEGORY",
+  "parent": {
+    "$oid": "69149fe6949430af41091495"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69149fe6949430af41091495"
+    }
+  ],
+  "path": [
+    "grocery",
+    "beauty-peronal",
+    "hair-care"
+  ],
+  "level": 3,
+  "order": 2,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-12T15:15:08.218Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-12T15:15:08.218Z"
+  },
+  "fullSlug": "grocery/beauty-peronal/hair-care",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6914a4df949430af410916a8"
+  },
+  "name": "Face & Skin Care",
+  "slug": "face-skin",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1762960603/uploads/hdrjni43iimlmcikxdqp.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "CATEGORY",
+  "parent": {
+    "$oid": "69149fe6949430af41091495"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69149fe6949430af41091495"
+    }
+  ],
+  "path": [
+    "grocery",
+    "beauty-peronal",
+    "face-skin"
+  ],
+  "level": 3,
+  "order": 3,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-12T15:16:47.378Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-12T15:16:47.378Z"
+  },
+  "fullSlug": "grocery/beauty-peronal/face-skin",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6914a519949430af410916c5"
+  },
+  "name": "Beauty & Cosmatic",
+  "slug": "beauty-cosmatic",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1762960660/uploads/bkhu99tyrhvwruagfghs.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "CATEGORY",
+  "parent": {
+    "$oid": "69149fe6949430af41091495"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69149fe6949430af41091495"
+    }
+  ],
+  "path": [
+    "grocery",
+    "beauty-peronal",
+    "beauty-cosmatic"
+  ],
+  "level": 3,
+  "order": 4,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-12T15:17:45.396Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-12T15:17:45.396Z"
+  },
+  "fullSlug": "grocery/beauty-peronal/beauty-cosmatic",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6914a59a949430af410916e8"
+  },
+  "name": "Health & pharma",
+  "slug": "health-pharma",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1762960788/uploads/r0rovfagf1ykawnkrqz3.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "CATEGORY",
+  "parent": {
+    "$oid": "69149fe6949430af41091495"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69149fe6949430af41091495"
+    }
+  ],
+  "path": [
+    "grocery",
+    "beauty-peronal",
+    "health-pharma"
+  ],
+  "level": 3,
+  "order": 5,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-12T15:19:54.481Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-12T15:19:54.481Z"
+  },
+  "fullSlug": "grocery/beauty-peronal/health-pharma",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6914a5de949430af41091705"
+  },
+  "name": "Feminine Hygiene",
+  "slug": "feminine-hygiene",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1762960857/uploads/yhnegcqkz4usvtacj21g.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "CATEGORY",
+  "parent": {
+    "$oid": "69149fe6949430af41091495"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69149fe6949430af41091495"
+    }
+  ],
+  "path": [
+    "grocery",
+    "beauty-peronal",
+    "feminine-hygiene"
+  ],
+  "level": 3,
+  "order": 6,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-12T15:21:02.620Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-12T15:21:02.620Z"
+  },
+  "fullSlug": "grocery/beauty-peronal/feminine-hygiene",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6914a604949430af41091722"
+  },
+  "name": "Baby Care",
+  "slug": "baby-care",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1762960894/uploads/afef3ohzkaguutxkrssq.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "CATEGORY",
+  "parent": {
+    "$oid": "69149fe6949430af41091495"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69149fe6949430af41091495"
+    }
+  ],
+  "path": [
+    "grocery",
+    "beauty-peronal",
+    "baby-care"
+  ],
+  "level": 3,
+  "order": 7,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-12T15:21:40.504Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-12T15:21:40.504Z"
+  },
+  "fullSlug": "grocery/beauty-peronal/baby-care",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6914a786949430af410917b1"
+  },
+  "name": "Cleaners & Repellents",
+  "slug": "cleaners-repellents",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1762961280/uploads/bz7eycsgus8lbknk8xva.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "CATEGORY",
+  "parent": {
+    "$oid": "6914a037949430af410914b0"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "6914a037949430af410914b0"
+    }
+  ],
+  "path": [
+    "grocery",
+    "household-essentials",
+    "cleaners-repellents"
+  ],
+  "level": 3,
+  "order": 1,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-12T15:28:06.834Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-12T15:28:06.834Z"
+  },
+  "fullSlug": "grocery/household-essentials/cleaners-repellents",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6914a7fd949430af410917fe"
+  },
+  "name": "Sweeping & Mopping",
+  "slug": "sweeping-mopping",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1762961401/uploads/vt4qnseblokkoefz198e.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "CATEGORY",
+  "parent": {
+    "$oid": "6914a037949430af410914b0"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "6914a037949430af410914b0"
+    }
+  ],
+  "path": [
+    "grocery",
+    "household-essentials",
+    "sweeping-mopping"
+  ],
+  "level": 3,
+  "order": 2,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-12T15:30:05.913Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-12T15:30:05.913Z"
+  },
+  "fullSlug": "grocery/household-essentials/sweeping-mopping",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6914a98e949430af4109184e"
+  },
+  "name": "Poojs Needs",
+  "slug": "pooja-need",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1762961804/uploads/uur6r1ilnkjtsvxwbgwj.jpg",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "CATEGORY",
+  "parent": {
+    "$oid": "69149fe6949430af41091495"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69149fe6949430af41091495"
+    }
+  ],
+  "path": [
+    "grocery",
+    "beauty-peronal",
+    "pooja-need"
+  ],
+  "level": 3,
+  "order": 8,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-12T15:36:46.130Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-12T15:36:46.130Z"
+  },
+  "fullSlug": "grocery/beauty-peronal/pooja-need",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69159e4721b16c4d7533d70d"
+  },
+  "name": "Chips & Wafers",
+  "slug": "chip-wafer",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763024449/uploads/iti14pg2zjshn0g8x1e4.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "69133c639043f888dc5b5e9a"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c35"
+    },
+    {
+      "$oid": "69133c639043f888dc5b5e9a"
+    }
+  ],
+  "path": [
+    "grocery",
+    "snacks-drinks",
+    "chip-namkeen",
+    "chip-wafer"
+  ],
+  "level": 4,
+  "order": 1,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-13T09:00:55.570Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-13T09:00:55.570Z"
+  },
+  "fullSlug": "grocery/snacks-drinks/chip-namkeen/chip-wafer",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69159e7621b16c4d7533d724"
+  },
+  "name": "Bhujia & Mixtures",
+  "slug": "bhujia-mix",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763024496/uploads/yu6dzp6lvpecapybhh8j.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "69133c639043f888dc5b5e9a"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c35"
+    },
+    {
+      "$oid": "69133c639043f888dc5b5e9a"
+    }
+  ],
+  "path": [
+    "grocery",
+    "snacks-drinks",
+    "chip-namkeen",
+    "bhujia-mix"
+  ],
+  "level": 4,
+  "order": 2,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-13T09:01:42.667Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-13T09:01:42.667Z"
+  },
+  "fullSlug": "grocery/snacks-drinks/chip-namkeen/bhujia-mix",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69159f8d21b16c4d7533d73b"
+  },
+  "name": "Healthy Snacks",
+  "slug": "healthy-snacks",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763024774/uploads/y5hz13d47tixjnhaqpnu.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "69133c639043f888dc5b5e9a"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c35"
+    },
+    {
+      "$oid": "69133c639043f888dc5b5e9a"
+    }
+  ],
+  "path": [
+    "grocery",
+    "snacks-drinks",
+    "chip-namkeen",
+    "healthy-snacks"
+  ],
+  "level": 4,
+  "order": 3,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-13T09:06:21.247Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-13T09:06:21.247Z"
+  },
+  "fullSlug": "grocery/snacks-drinks/chip-namkeen/healthy-snacks",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69159fed21b16c4d7533d752"
+  },
+  "name": "Nameek & Snacks",
+  "slug": "nameek-snacks",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763024871/uploads/th5t5inettijkpgx2hme.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "69133c639043f888dc5b5e9a"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c35"
+    },
+    {
+      "$oid": "69133c639043f888dc5b5e9a"
+    }
+  ],
+  "path": [
+    "grocery",
+    "snacks-drinks",
+    "chip-namkeen",
+    "nameek-snacks"
+  ],
+  "level": 4,
+  "order": 4,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-13T09:07:57.303Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-13T09:07:57.303Z"
+  },
+  "fullSlug": "grocery/snacks-drinks/chip-namkeen/nameek-snacks",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6915a04221b16c4d7533d769"
+  },
+  "name": "Premium",
+  "slug": "premium-f",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763024959/uploads/jnmmdbon7xgr1t68kuiv.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "69133c639043f888dc5b5e9a"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c35"
+    },
+    {
+      "$oid": "69133c639043f888dc5b5e9a"
+    }
+  ],
+  "path": [
+    "grocery",
+    "snacks-drinks",
+    "chip-namkeen",
+    "premium-f"
+  ],
+  "level": 4,
+  "order": 5,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-13T09:09:22.335Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-13T09:09:22.335Z"
+  },
+  "fullSlug": "grocery/snacks-drinks/chip-namkeen/premium-f",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6915a18521b16c4d7533d780"
+  },
+  "name": "Falahari & Namkeen ",
+  "slug": "flahari-mix",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763025279/uploads/ld7y9zxy8hiygbeuo0va.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "69133c639043f888dc5b5e9a"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c35"
+    },
+    {
+      "$oid": "69133c639043f888dc5b5e9a"
+    }
+  ],
+  "path": [
+    "grocery",
+    "snacks-drinks",
+    "chip-namkeen",
+    "flahari-mix"
+  ],
+  "level": 4,
+  "order": 6,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-13T09:14:45.871Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-13T09:14:45.871Z"
+  },
+  "fullSlug": "grocery/snacks-drinks/chip-namkeen/flahari-mix",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6915a1fb21b16c4d7533d797"
+  },
+  "name": "Fapad & Fryums",
+  "slug": "fapa-fryums",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763025396/uploads/ryhvnhg0c10sezdonfny.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "69133c639043f888dc5b5e9a"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c35"
+    },
+    {
+      "$oid": "69133c639043f888dc5b5e9a"
+    }
+  ],
+  "path": [
+    "grocery",
+    "snacks-drinks",
+    "chip-namkeen",
+    "fapa-fryums"
+  ],
+  "level": 4,
+  "order": 7,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-13T09:16:43.079Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-13T09:16:43.079Z"
+  },
+  "fullSlug": "grocery/snacks-drinks/chip-namkeen/fapa-fryums",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6915a22b21b16c4d7533d7ae"
+  },
+  "name": "Nachos",
+  "slug": "nachos-f",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763042179/uploads/m8gmixsqwiw8ubasttjd.webp",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "69133c639043f888dc5b5e9a"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c35"
+    },
+    {
+      "$oid": "69133c639043f888dc5b5e9a"
+    }
+  ],
+  "path": [
+    "grocery",
+    "snacks-drinks",
+    "chip-namkeen",
+    "nachos-f"
+  ],
+  "level": 4,
+  "order": 8,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-13T09:17:31.862Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-13T13:56:20.794Z"
+  },
+  "fullSlug": "grocery/snacks-drinks/chip-namkeen/nachos-f",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6915a24821b16c4d7533d7c5"
+  },
+  "name": "Popcorn",
+  "slug": "popcorn-f",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763025479/uploads/ml4coxrz7bxx7uekgzrd.gif",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "69133c639043f888dc5b5e9a"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c35"
+    },
+    {
+      "$oid": "69133c639043f888dc5b5e9a"
+    }
+  ],
+  "path": [
+    "grocery",
+    "snacks-drinks",
+    "chip-namkeen",
+    "popcorn-f"
+  ],
+  "level": 4,
+  "order": 9,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-13T09:18:00.491Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-13T09:18:00.491Z"
+  },
+  "fullSlug": "grocery/snacks-drinks/chip-namkeen/popcorn-f",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6915ce1321b16c4d7533dac9"
+  },
+  "name": "Tea",
+  "slug": "tea-g",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763036686/uploads/ymaubadhhoo5oraxcg02.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "691340b39043f888dc5b5fe1"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c35"
+    },
+    {
+      "$oid": "691340b39043f888dc5b5fe1"
+    }
+  ],
+  "path": [
+    "grocery",
+    "snacks-drinks",
+    "tea-coffee",
+    "tea-g"
+  ],
+  "level": 4,
+  "order": 1,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-13T12:24:51.780Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-13T12:24:51.780Z"
+  },
+  "fullSlug": "grocery/snacks-drinks/tea-coffee/tea-g",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6915ce3021b16c4d7533dae0"
+  },
+  "name": "Coffee",
+  "slug": "coffee-g",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763036715/uploads/uqmhn17sb2by2xngdgjd.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "691340b39043f888dc5b5fe1"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c35"
+    },
+    {
+      "$oid": "691340b39043f888dc5b5fe1"
+    }
+  ],
+  "path": [
+    "grocery",
+    "snacks-drinks",
+    "tea-coffee",
+    "coffee-g"
+  ],
+  "level": 4,
+  "order": 2,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-13T12:25:20.542Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-13T12:25:20.542Z"
+  },
+  "fullSlug": "grocery/snacks-drinks/tea-coffee/coffee-g",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6915ce5a21b16c4d7533daf9"
+  },
+  "name": "Hot Chocolate",
+  "slug": "hot-choclate",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763036756/uploads/dgmhwrdlpzsmwq5mamta.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "691340b39043f888dc5b5fe1"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c35"
+    },
+    {
+      "$oid": "691340b39043f888dc5b5fe1"
+    }
+  ],
+  "path": [
+    "grocery",
+    "snacks-drinks",
+    "tea-coffee",
+    "hot-choclate"
+  ],
+  "level": 4,
+  "order": 3,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-13T12:26:02.998Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-13T12:26:02.998Z"
+  },
+  "fullSlug": "grocery/snacks-drinks/tea-coffee/hot-choclate",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6915ce8421b16c4d7533db10"
+  },
+  "name": "Green Tea",
+  "slug": "green-tea",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763036800/uploads/rblup41p5o6zatvqvuto.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "691340b39043f888dc5b5fe1"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c35"
+    },
+    {
+      "$oid": "691340b39043f888dc5b5fe1"
+    }
+  ],
+  "path": [
+    "grocery",
+    "snacks-drinks",
+    "tea-coffee",
+    "green-tea"
+  ],
+  "level": 4,
+  "order": 4,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-13T12:26:44.473Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-13T12:26:44.473Z"
+  },
+  "fullSlug": "grocery/snacks-drinks/tea-coffee/green-tea",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6915ceae21b16c4d7533db29"
+  },
+  "name": "Milk Drinks",
+  "slug": "milk-drinks",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763036839/uploads/nmz437rijifgzqu5bqzo.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "691340b39043f888dc5b5fe1"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c35"
+    },
+    {
+      "$oid": "691340b39043f888dc5b5fe1"
+    }
+  ],
+  "path": [
+    "grocery",
+    "snacks-drinks",
+    "tea-coffee",
+    "milk-drinks"
+  ],
+  "level": 4,
+  "order": 5,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-13T12:27:26.136Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-13T12:27:26.136Z"
+  },
+  "fullSlug": "grocery/snacks-drinks/tea-coffee/milk-drinks",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6915cf1321b16c4d7533db44"
+  },
+  "name": "Cold Coffee & Ice Tea",
+  "slug": "coffee-tea",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763036943/uploads/izxuannugintfrchctad.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "691340b39043f888dc5b5fe1"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c35"
+    },
+    {
+      "$oid": "691340b39043f888dc5b5fe1"
+    }
+  ],
+  "path": [
+    "grocery",
+    "snacks-drinks",
+    "tea-coffee",
+    "coffee-tea"
+  ],
+  "level": 4,
+  "order": 6,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-13T12:29:07.404Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-13T12:29:07.404Z"
+  },
+  "fullSlug": "grocery/snacks-drinks/tea-coffee/coffee-tea",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6917037b4a8ee95490b5f016"
+  },
+  "name": "Soft Drinks",
+  "slug": "soft-drink",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763115895/uploads/zegf8eo3xdcfgfdckive.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "69133f809043f888dc5b5f8a"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c35"
+    },
+    {
+      "$oid": "69133f809043f888dc5b5f8a"
+    }
+  ],
+  "path": [
+    "grocery",
+    "snacks-drinks",
+    "drink-juices",
+    "soft-drink"
+  ],
+  "level": 4,
+  "order": 1,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-14T10:24:59.602Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-14T10:24:59.602Z"
+  },
+  "fullSlug": "grocery/snacks-drinks/drink-juices/soft-drink",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691703a24a8ee95490b5f031"
+  },
+  "name": "Juices",
+  "slug": "juices-f",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763115932/uploads/rssp2yijbdrfo1bjakn4.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "69133f809043f888dc5b5f8a"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c35"
+    },
+    {
+      "$oid": "69133f809043f888dc5b5f8a"
+    }
+  ],
+  "path": [
+    "grocery",
+    "snacks-drinks",
+    "drink-juices",
+    "juices-f"
+  ],
+  "level": 4,
+  "order": 2,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-14T10:25:38.659Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-14T10:25:38.659Z"
+  },
+  "fullSlug": "grocery/snacks-drinks/drink-juices/juices-f",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691703d24a8ee95490b5f048"
+  },
+  "name": "Energy Drinks",
+  "slug": "energy-d",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763115983/uploads/oqlbjtzv9xg64nnwfcpf.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "69133f809043f888dc5b5f8a"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c35"
+    },
+    {
+      "$oid": "69133f809043f888dc5b5f8a"
+    }
+  ],
+  "path": [
+    "grocery",
+    "snacks-drinks",
+    "drink-juices",
+    "energy-d"
+  ],
+  "level": 4,
+  "order": 3,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-14T10:26:26.955Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-14T10:26:26.955Z"
+  },
+  "fullSlug": "grocery/snacks-drinks/drink-juices/energy-d",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691703ff4a8ee95490b5f063"
+  },
+  "name": "Soda & Mixers",
+  "slug": "soda-mix",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763116027/uploads/pifqncwhodyihbcdvdmg.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "69133f809043f888dc5b5f8a"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c35"
+    },
+    {
+      "$oid": "69133f809043f888dc5b5f8a"
+    }
+  ],
+  "path": [
+    "grocery",
+    "snacks-drinks",
+    "drink-juices",
+    "soda-mix"
+  ],
+  "level": 4,
+  "order": 4,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-14T10:27:11.135Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-14T10:27:11.135Z"
+  },
+  "fullSlug": "grocery/snacks-drinks/drink-juices/soda-mix",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691704834a8ee95490b5f082"
+  },
+  "name": "Water & Ice cubes",
+  "slug": "water-icecubes",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763116157/uploads/dtvd19bvld5pywlffatd.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "69133f809043f888dc5b5f8a"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c35"
+    },
+    {
+      "$oid": "69133f809043f888dc5b5f8a"
+    }
+  ],
+  "path": [
+    "grocery",
+    "snacks-drinks",
+    "drink-juices",
+    "water-icecubes"
+  ],
+  "level": 4,
+  "order": 5,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-14T10:29:23.633Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-14T10:29:23.633Z"
+  },
+  "fullSlug": "grocery/snacks-drinks/drink-juices/water-icecubes",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691704bf4a8ee95490b5f09d"
+  },
+  "name": "Soya Milk & more",
+  "slug": "saoya-milk",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763116219/uploads/ewfvtcvjuefsqq5memxq.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "69133f809043f888dc5b5f8a"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c35"
+    },
+    {
+      "$oid": "69133f809043f888dc5b5f8a"
+    }
+  ],
+  "path": [
+    "grocery",
+    "snacks-drinks",
+    "drink-juices",
+    "saoya-milk"
+  ],
+  "level": 4,
+  "order": 6,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-14T10:30:23.184Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-14T10:30:23.184Z"
+  },
+  "fullSlug": "grocery/snacks-drinks/drink-juices/saoya-milk",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6917056c4a8ee95490b5f0c0"
+  },
+  "name": "Concentrates & Syrups",
+  "slug": "concentrates-syrups",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763116393/uploads/y19lhwtafsxgcleuv4a9.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "69133f809043f888dc5b5f8a"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c35"
+    },
+    {
+      "$oid": "69133f809043f888dc5b5f8a"
+    }
+  ],
+  "path": [
+    "grocery",
+    "snacks-drinks",
+    "drink-juices",
+    "concentrates-syrups"
+  ],
+  "level": 4,
+  "order": 7,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-14T10:33:16.396Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-14T10:33:16.396Z"
+  },
+  "fullSlug": "grocery/snacks-drinks/drink-juices/concentrates-syrups",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691705ea4a8ee95490b5f0ed"
+  },
+  "name": "Ice Tea",
+  "slug": "ice-tea",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763116517/uploads/sajhuo9zecp0eaua5k1p.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "69133f809043f888dc5b5f8a"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c35"
+    },
+    {
+      "$oid": "69133f809043f888dc5b5f8a"
+    }
+  ],
+  "path": [
+    "grocery",
+    "snacks-drinks",
+    "drink-juices",
+    "ice-tea"
+  ],
+  "level": 4,
+  "order": 8,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-14T10:35:22.979Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-14T10:35:22.979Z"
+  },
+  "fullSlug": "grocery/snacks-drinks/drink-juices/ice-tea",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6917065e4a8ee95490b5f10c"
+  },
+  "name": "Sticks",
+  "slug": "ice-sticks",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763116632/uploads/lps3rjcw8ilfhxl5fxxv.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "69133ed29043f888dc5b5f22"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c35"
+    },
+    {
+      "$oid": "69133ed29043f888dc5b5f22"
+    }
+  ],
+  "path": [
+    "grocery",
+    "snacks-drinks",
+    "frozenfood-icecream",
+    "ice-sticks"
+  ],
+  "level": 4,
+  "order": 1,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-14T10:37:18.168Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-14T10:37:18.168Z"
+  },
+  "fullSlug": "grocery/snacks-drinks/frozenfood-icecream/ice-sticks",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691706784a8ee95490b5f127"
+  },
+  "name": "Cones",
+  "slug": "ice-cones",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763116658/uploads/evjps4vol1dk5iy1heuj.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "69133ed29043f888dc5b5f22"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c35"
+    },
+    {
+      "$oid": "69133ed29043f888dc5b5f22"
+    }
+  ],
+  "path": [
+    "grocery",
+    "snacks-drinks",
+    "frozenfood-icecream",
+    "ice-cones"
+  ],
+  "level": 4,
+  "order": 2,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-14T10:37:44.478Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-14T10:37:44.478Z"
+  },
+  "fullSlug": "grocery/snacks-drinks/frozenfood-icecream/ice-cones",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691706a34a8ee95490b5f13e"
+  },
+  "name": "Sandwich",
+  "slug": "ice-san",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763116703/uploads/njv64zpprjxrjxtxbfri.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "69133ed29043f888dc5b5f22"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c35"
+    },
+    {
+      "$oid": "69133ed29043f888dc5b5f22"
+    }
+  ],
+  "path": [
+    "grocery",
+    "snacks-drinks",
+    "frozenfood-icecream",
+    "ice-san"
+  ],
+  "level": 4,
+  "order": 3,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-14T10:38:27.038Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-14T10:38:27.038Z"
+  },
+  "fullSlug": "grocery/snacks-drinks/frozenfood-icecream/ice-san",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691706d84a8ee95490b5f159"
+  },
+  "name": "Tubs",
+  "slug": "ice-tub",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763116755/uploads/ispjuanpw2wvdgmdfrfn.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "69133ed29043f888dc5b5f22"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c35"
+    },
+    {
+      "$oid": "69133ed29043f888dc5b5f22"
+    }
+  ],
+  "path": [
+    "grocery",
+    "snacks-drinks",
+    "frozenfood-icecream",
+    "ice-tub"
+  ],
+  "level": 4,
+  "order": 4,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-14T10:39:20.194Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-14T10:39:20.194Z"
+  },
+  "fullSlug": "grocery/snacks-drinks/frozenfood-icecream/ice-tub",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691706f64a8ee95490b5f174"
+  },
+  "name": "Syrups",
+  "slug": "sy-ups",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763116786/uploads/sld9icsfd3jgah35pq2j.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "69133ed29043f888dc5b5f22"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c35"
+    },
+    {
+      "$oid": "69133ed29043f888dc5b5f22"
+    }
+  ],
+  "path": [
+    "grocery",
+    "snacks-drinks",
+    "frozenfood-icecream",
+    "sy-ups"
+  ],
+  "level": 4,
+  "order": 5,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-14T10:39:50.484Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-14T10:39:50.484Z"
+  },
+  "fullSlug": "grocery/snacks-drinks/frozenfood-icecream/sy-ups",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691708624a8ee95490b5f1a3"
+  },
+  "name": "Cigarettes",
+  "slug": "cigaret-es",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763117151/uploads/jwgi4fznul7zq06yruk5.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "6913403a9043f888dc5b5faf"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c35"
+    },
+    {
+      "$oid": "6913403a9043f888dc5b5faf"
+    }
+  ],
+  "path": [
+    "grocery",
+    "snacks-drinks",
+    "paan-corner",
+    "cigaret-es"
+  ],
+  "level": 4,
+  "order": 1,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-14T10:45:54.908Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-14T10:45:54.908Z"
+  },
+  "fullSlug": "grocery/snacks-drinks/paan-corner/cigaret-es",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6917088a4a8ee95490b5f1ba"
+  },
+  "name": "Paan Masala",
+  "slug": "paan-masala",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763117188/uploads/ccnf7kfo3fcuovjm9znl.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "6913403a9043f888dc5b5faf"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c35"
+    },
+    {
+      "$oid": "6913403a9043f888dc5b5faf"
+    }
+  ],
+  "path": [
+    "grocery",
+    "snacks-drinks",
+    "paan-corner",
+    "paan-masala"
+  ],
+  "level": 4,
+  "order": 2,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-14T10:46:34.363Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-14T10:46:34.363Z"
+  },
+  "fullSlug": "grocery/snacks-drinks/paan-corner/paan-masala",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691708bd4a8ee95490b5f1d5"
+  },
+  "name": "Hookah needs",
+  "slug": "hookah-need",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763117241/uploads/k89iz1xvovkciv5omkxf.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "6913403a9043f888dc5b5faf"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c35"
+    },
+    {
+      "$oid": "6913403a9043f888dc5b5faf"
+    }
+  ],
+  "path": [
+    "grocery",
+    "snacks-drinks",
+    "paan-corner",
+    "hookah-need"
+  ],
+  "level": 4,
+  "order": 3,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-14T10:47:25.458Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-14T10:47:25.458Z"
+  },
+  "fullSlug": "grocery/snacks-drinks/paan-corner/hookah-need",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691708da4a8ee95490b5f1f0"
+  },
+  "name": "Lighter",
+  "slug": "lighter-f",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763117270/uploads/avygphockhmozaoayhmc.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "6913403a9043f888dc5b5faf"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c35"
+    },
+    {
+      "$oid": "6913403a9043f888dc5b5faf"
+    }
+  ],
+  "path": [
+    "grocery",
+    "snacks-drinks",
+    "paan-corner",
+    "lighter-f"
+  ],
+  "level": 4,
+  "order": 4,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-14T10:47:54.392Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-14T10:47:54.392Z"
+  },
+  "fullSlug": "grocery/snacks-drinks/paan-corner/lighter-f",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691709074a8ee95490b5f20b"
+  },
+  "name": "Mouth Freshners",
+  "slug": "mouth-fre",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763117313/uploads/st1iv2vwmxhqfxsdlhgh.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "6913403a9043f888dc5b5faf"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c35"
+    },
+    {
+      "$oid": "6913403a9043f888dc5b5faf"
+    }
+  ],
+  "path": [
+    "grocery",
+    "snacks-drinks",
+    "paan-corner",
+    "mouth-fre"
+  ],
+  "level": 4,
+  "order": 5,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-14T10:48:39.107Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-14T10:48:39.107Z"
+  },
+  "fullSlug": "grocery/snacks-drinks/paan-corner/mouth-fre",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6917094a4a8ee95490b5f226"
+  },
+  "name": "Chocolates",
+  "slug": "cho-clates",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763117380/uploads/l9sbkscveionoz3yp33q.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "69133f029043f888dc5b5f39"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c35"
+    },
+    {
+      "$oid": "69133f029043f888dc5b5f39"
+    }
+  ],
+  "path": [
+    "grocery",
+    "snacks-drinks",
+    "sweet-choclates",
+    "cho-clates"
+  ],
+  "level": 4,
+  "order": 1,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-14T10:49:46.379Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-14T10:49:46.379Z"
+  },
+  "fullSlug": "grocery/snacks-drinks/sweet-choclates/cho-clates",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6917099a4a8ee95490b5f241"
+  },
+  "name": "Chocolate Gift Pack",
+  "slug": "c-g",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763117457/uploads/fjydt3dishcwtuq5o98h.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "69133f029043f888dc5b5f39"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c35"
+    },
+    {
+      "$oid": "69133f029043f888dc5b5f39"
+    }
+  ],
+  "path": [
+    "grocery",
+    "snacks-drinks",
+    "sweet-choclates",
+    "c-g"
+  ],
+  "level": 4,
+  "order": 2,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-14T10:51:06.208Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-14T10:51:06.208Z"
+  },
+  "fullSlug": "grocery/snacks-drinks/sweet-choclates/c-g",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691709c84a8ee95490b5f25c"
+  },
+  "name": "Candies & Gums",
+  "slug": "candy-gum",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763117506/uploads/cl8nzhy23wnx9yiqugqs.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "69133f029043f888dc5b5f39"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c35"
+    },
+    {
+      "$oid": "69133f029043f888dc5b5f39"
+    }
+  ],
+  "path": [
+    "grocery",
+    "snacks-drinks",
+    "sweet-choclates",
+    "candy-gum"
+  ],
+  "level": 4,
+  "order": 3,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-14T10:51:52.232Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-14T10:51:52.232Z"
+  },
+  "fullSlug": "grocery/snacks-drinks/sweet-choclates/candy-gum",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691709e84a8ee95490b5f273"
+  },
+  "name": "Energy Bar",
+  "slug": "ene-bar",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763117541/uploads/pm5vxpewyhxqq5jbp9yf.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "69133f029043f888dc5b5f39"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c35"
+    },
+    {
+      "$oid": "69133f029043f888dc5b5f39"
+    }
+  ],
+  "path": [
+    "grocery",
+    "snacks-drinks",
+    "sweet-choclates",
+    "ene-bar"
+  ],
+  "level": 4,
+  "order": 4,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-14T10:52:24.476Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-14T10:52:24.476Z"
+  },
+  "fullSlug": "grocery/snacks-drinks/sweet-choclates/ene-bar",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69170a114a8ee95490b5f28e"
+  },
+  "name": "Indian Sweets",
+  "slug": "inian-sweet",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763117578/uploads/mi4hwkqwxewzl6rcppxd.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "69133f029043f888dc5b5f39"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c35"
+    },
+    {
+      "$oid": "69133f029043f888dc5b5f39"
+    }
+  ],
+  "path": [
+    "grocery",
+    "snacks-drinks",
+    "sweet-choclates",
+    "inian-sweet"
+  ],
+  "level": 4,
+  "order": 5,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-14T10:53:05.236Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-14T10:53:05.236Z"
+  },
+  "fullSlug": "grocery/snacks-drinks/sweet-choclates/inian-sweet",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69170a384a8ee95490b5f2a9"
+  },
+  "name": "Premium",
+  "slug": "pre-ff",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763117619/uploads/az7slqkceo35h3oxgse2.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "69133f029043f888dc5b5f39"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c35"
+    },
+    {
+      "$oid": "69133f029043f888dc5b5f39"
+    }
+  ],
+  "path": [
+    "grocery",
+    "snacks-drinks",
+    "sweet-choclates",
+    "pre-ff"
+  ],
+  "level": 4,
+  "order": 6,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-14T10:53:44.765Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-14T10:53:44.765Z"
+  },
+  "fullSlug": "grocery/snacks-drinks/sweet-choclates/pre-ff",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69170b944a8ee95490b5f52a"
+  },
+  "name": "Veg Frozen",
+  "slug": "veg-frozen",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763117967/uploads/isrigqsjfxkam3je02iw.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "69133ed29043f888dc5b5f22"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c35"
+    },
+    {
+      "$oid": "69133ed29043f888dc5b5f22"
+    }
+  ],
+  "path": [
+    "grocery",
+    "snacks-drinks",
+    "frozenfood-icecream",
+    "veg-frozen"
+  ],
+  "level": 4,
+  "order": 6,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-14T10:59:32.730Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-14T10:59:32.730Z"
+  },
+  "fullSlug": "grocery/snacks-drinks/frozenfood-icecream/veg-frozen",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69170d654a8ee95490b5f55d"
+  },
+  "name": "Non-veg Frozen",
+  "slug": "n-f",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763118432/uploads/j19hgfgnxuuntjxfzkmd.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "69133ed29043f888dc5b5f22"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c35"
+    },
+    {
+      "$oid": "69133ed29043f888dc5b5f22"
+    }
+  ],
+  "path": [
+    "grocery",
+    "snacks-drinks",
+    "frozenfood-icecream",
+    "n-f"
+  ],
+  "level": 4,
+  "order": 7,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-14T11:07:17.141Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-14T11:07:17.141Z"
+  },
+  "fullSlug": "grocery/snacks-drinks/frozenfood-icecream/n-f",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69170d8e4a8ee95490b5f578"
+  },
+  "name": "Green peas & sweet corn",
+  "slug": "g-s",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763118473/uploads/lbgz1catn3otghummkjr.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "69133ed29043f888dc5b5f22"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c35"
+    },
+    {
+      "$oid": "69133ed29043f888dc5b5f22"
+    }
+  ],
+  "path": [
+    "grocery",
+    "snacks-drinks",
+    "frozenfood-icecream",
+    "g-s"
+  ],
+  "level": 4,
+  "order": 8,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-14T11:07:58.751Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-14T11:07:58.751Z"
+  },
+  "fullSlug": "grocery/snacks-drinks/frozenfood-icecream/g-s",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69170f584a8ee95490b5f5b2"
+  },
+  "name": "Noodles",
+  "slug": "n-d",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763118930/uploads/cttwlelqjtyjzh7cwtel.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "69133d479043f888dc5b5efd"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c35"
+    },
+    {
+      "$oid": "69133d479043f888dc5b5efd"
+    }
+  ],
+  "path": [
+    "grocery",
+    "snacks-drinks",
+    "instant-food",
+    "n-d"
+  ],
+  "level": 4,
+  "order": 1,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-14T11:15:36.034Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-14T11:15:36.034Z"
+  },
+  "fullSlug": "grocery/snacks-drinks/instant-food/n-d",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69170f884a8ee95490b5f5c9"
+  },
+  "name": "Pasta",
+  "slug": "p-t",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763118979/uploads/cmwdeuinzujj3kabtkqv.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "69133d479043f888dc5b5efd"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c35"
+    },
+    {
+      "$oid": "69133d479043f888dc5b5efd"
+    }
+  ],
+  "path": [
+    "grocery",
+    "snacks-drinks",
+    "instant-food",
+    "p-t"
+  ],
+  "level": 4,
+  "order": 2,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-14T11:16:24.110Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-14T11:16:24.110Z"
+  },
+  "fullSlug": "grocery/snacks-drinks/instant-food/p-t",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69170fb94a8ee95490b5f5e4"
+  },
+  "name": "Organic & premiums",
+  "slug": "organic-premium",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763119029/uploads/mjrri4irbmuaamtnzgbk.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "69133d479043f888dc5b5efd"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c35"
+    },
+    {
+      "$oid": "69133d479043f888dc5b5efd"
+    }
+  ],
+  "path": [
+    "grocery",
+    "snacks-drinks",
+    "instant-food",
+    "organic-premium"
+  ],
+  "level": 4,
+  "order": 3,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-14T11:17:13.385Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-14T11:17:13.385Z"
+  },
+  "fullSlug": "grocery/snacks-drinks/instant-food/organic-premium",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69170fed4a8ee95490b5f5ff"
+  },
+  "name": "Dessert & Cake mix",
+  "slug": "dessert-cake",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763119080/uploads/pumgsbh8oysse5xnzrld.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "69133d479043f888dc5b5efd"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c35"
+    },
+    {
+      "$oid": "69133d479043f888dc5b5efd"
+    }
+  ],
+  "path": [
+    "grocery",
+    "snacks-drinks",
+    "instant-food",
+    "dessert-cake"
+  ],
+  "level": 4,
+  "order": 4,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-14T11:18:05.970Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-14T11:18:05.970Z"
+  },
+  "fullSlug": "grocery/snacks-drinks/instant-food/dessert-cake",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691710724a8ee95490b5f61e"
+  },
+  "name": "Idli & Dosa batter",
+  "slug": "idli-dosa",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763119214/uploads/bpbazjspezqdz8sxnlaz.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "69133d479043f888dc5b5efd"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c35"
+    },
+    {
+      "$oid": "69133d479043f888dc5b5efd"
+    }
+  ],
+  "path": [
+    "grocery",
+    "snacks-drinks",
+    "instant-food",
+    "idli-dosa"
+  ],
+  "level": 4,
+  "order": 5,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-14T11:20:18.659Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-14T11:20:18.659Z"
+  },
+  "fullSlug": "grocery/snacks-drinks/instant-food/idli-dosa",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6917114c4a8ee95490b5f645"
+  },
+  "name": "Cup Noodles",
+  "slug": "cup-n",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763119431/uploads/t88yzsdx93kma9vmc1qe.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "69133d479043f888dc5b5efd"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c35"
+    },
+    {
+      "$oid": "69133d479043f888dc5b5efd"
+    }
+  ],
+  "path": [
+    "grocery",
+    "snacks-drinks",
+    "instant-food",
+    "cup-n"
+  ],
+  "level": 4,
+  "order": 6,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-14T11:23:56.069Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-14T11:23:56.069Z"
+  },
+  "fullSlug": "grocery/snacks-drinks/instant-food/cup-n",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691733064a8ee95490b5fe99"
+  },
+  "name": "Diaper & Wipes",
+  "slug": "diaper-wipes",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763128063/uploads/zd5nw6npwfol6ghmrvmp.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "6914a604949430af41091722"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69149fe6949430af41091495"
+    },
+    {
+      "$oid": "6914a604949430af41091722"
+    }
+  ],
+  "path": [
+    "grocery",
+    "beauty-peronal",
+    "baby-care",
+    "diaper-wipes"
+  ],
+  "level": 4,
+  "order": 1,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-14T13:47:50.886Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-14T13:47:50.886Z"
+  },
+  "fullSlug": "grocery/beauty-peronal/baby-care/diaper-wipes",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691733674a8ee95490b5fed4"
+  },
+  "name": "Baby Shampoo & more",
+  "slug": "shampoo-more",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763128163/uploads/m6nquidmr7gx4t5ozuc9.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "6914a604949430af41091722"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69149fe6949430af41091495"
+    },
+    {
+      "$oid": "6914a604949430af41091722"
+    }
+  ],
+  "path": [
+    "grocery",
+    "beauty-peronal",
+    "baby-care",
+    "shampoo-more"
+  ],
+  "level": 4,
+  "order": 2,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-14T13:49:27.890Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-14T13:49:27.890Z"
+  },
+  "fullSlug": "grocery/beauty-peronal/baby-care/shampoo-more",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6917339a4a8ee95490b5ff2b"
+  },
+  "name": "Baby Food",
+  "slug": "baby-food",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763128211/uploads/rk76clkjojhhajafjjra.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "6914a604949430af41091722"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69149fe6949430af41091495"
+    },
+    {
+      "$oid": "6914a604949430af41091722"
+    }
+  ],
+  "path": [
+    "grocery",
+    "beauty-peronal",
+    "baby-care",
+    "baby-food"
+  ],
+  "level": 4,
+  "order": 3,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-14T13:50:18.475Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-14T13:50:18.475Z"
+  },
+  "fullSlug": "grocery/beauty-peronal/baby-care/baby-food",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691733ef4a8ee95490b5ffeb"
+  },
+  "name": "Baby oil & powders",
+  "slug": "baby-p",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763128298/uploads/bmvat7xip59gbvmo2tn5.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "6914a604949430af41091722"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69149fe6949430af41091495"
+    },
+    {
+      "$oid": "6914a604949430af41091722"
+    }
+  ],
+  "path": [
+    "grocery",
+    "beauty-peronal",
+    "baby-care",
+    "baby-p"
+  ],
+  "level": 4,
+  "order": 4,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-14T13:51:43.039Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-14T13:51:43.039Z"
+  },
+  "fullSlug": "grocery/beauty-peronal/baby-care/baby-p",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6917344c4a8ee95490b6000e"
+  },
+  "name": "Baby Health & Hygiene",
+  "slug": "baby-health",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763128391/uploads/iwuvfdjm55c4rjnybga7.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "6914a604949430af41091722"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69149fe6949430af41091495"
+    },
+    {
+      "$oid": "6914a604949430af41091722"
+    }
+  ],
+  "path": [
+    "grocery",
+    "beauty-peronal",
+    "baby-care",
+    "baby-health"
+  ],
+  "level": 4,
+  "order": 5,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-14T13:53:16.640Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-14T13:53:16.640Z"
+  },
+  "fullSlug": "grocery/beauty-peronal/baby-care/baby-health",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69173c254a8ee95490b60896"
+  },
+  "name": "Bathing Soaps",
+  "slug": "bating-sops",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763130401/uploads/j5notkv4amqmabc8v3yz.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "6914a405949430af41091662"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69149fe6949430af41091495"
+    },
+    {
+      "$oid": "6914a405949430af41091662"
+    }
+  ],
+  "path": [
+    "grocery",
+    "beauty-peronal",
+    "bath-body",
+    "bating-sops"
+  ],
+  "level": 4,
+  "order": 1,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-14T14:26:45.807Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-14T14:26:45.807Z"
+  },
+  "fullSlug": "grocery/beauty-peronal/bath-body/bating-sops",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69173c4e4a8ee95490b608b1"
+  },
+  "name": "Shower Gels & Scrubs",
+  "slug": "shower-gel",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763130442/uploads/sxywpyvo0wlswvfjgucz.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "6914a405949430af41091662"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69149fe6949430af41091495"
+    },
+    {
+      "$oid": "6914a405949430af41091662"
+    }
+  ],
+  "path": [
+    "grocery",
+    "beauty-peronal",
+    "bath-body",
+    "shower-gel"
+  ],
+  "level": 4,
+  "order": 2,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-14T14:27:26.815Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-14T14:27:26.815Z"
+  },
+  "fullSlug": "grocery/beauty-peronal/bath-body/shower-gel",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69173c6d4a8ee95490b608d0"
+  },
+  "name": "Oral Care",
+  "slug": "oral-care",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763130472/uploads/cz0dzopbxpwu0drv2naz.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "6914a405949430af41091662"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69149fe6949430af41091495"
+    },
+    {
+      "$oid": "6914a405949430af41091662"
+    }
+  ],
+  "path": [
+    "grocery",
+    "beauty-peronal",
+    "bath-body",
+    "oral-care"
+  ],
+  "level": 4,
+  "order": 3,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-14T14:27:57.273Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-14T14:27:57.273Z"
+  },
+  "fullSlug": "grocery/beauty-peronal/bath-body/oral-care",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69173d304a8ee95490b608ff"
+  },
+  "name": "Handwash",
+  "slug": "h-w",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763130667/uploads/nvnluawlwvtzcc6e6xbp.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "6914a405949430af41091662"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69149fe6949430af41091495"
+    },
+    {
+      "$oid": "6914a405949430af41091662"
+    }
+  ],
+  "path": [
+    "grocery",
+    "beauty-peronal",
+    "bath-body",
+    "h-w"
+  ],
+  "level": 4,
+  "order": 4,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-14T14:31:12.752Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-14T14:31:12.752Z"
+  },
+  "fullSlug": "grocery/beauty-peronal/bath-body/h-w",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69173d5b4a8ee95490b6091e"
+  },
+  "name": "Boady lotion & oils",
+  "slug": "lotion-oil",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763130711/uploads/vug9e0wukqrildk5086p.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "6914a405949430af41091662"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69149fe6949430af41091495"
+    },
+    {
+      "$oid": "6914a405949430af41091662"
+    }
+  ],
+  "path": [
+    "grocery",
+    "beauty-peronal",
+    "bath-body",
+    "lotion-oil"
+  ],
+  "level": 4,
+  "order": 5,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-14T14:31:55.468Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-14T14:31:55.468Z"
+  },
+  "fullSlug": "grocery/beauty-peronal/bath-body/lotion-oil",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69173d7f4a8ee95490b60939"
+  },
+  "name": "Bathing Equipment",
+  "slug": "b-e",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763130745/uploads/gkaknbg2nimhaypjyhgu.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "6914a405949430af41091662"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69149fe6949430af41091495"
+    },
+    {
+      "$oid": "6914a405949430af41091662"
+    }
+  ],
+  "path": [
+    "grocery",
+    "beauty-peronal",
+    "bath-body",
+    "b-e"
+  ],
+  "level": 4,
+  "order": 6,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-14T14:32:31.530Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-14T14:32:31.530Z"
+  },
+  "fullSlug": "grocery/beauty-peronal/bath-body/b-e",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69173e084a8ee95490b60a25"
+  },
+  "name": "Shampoo",
+  "slug": "s-f",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763130885/uploads/djcheulevqdu1elcvtb4.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "6914a47c949430af41091687"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69149fe6949430af41091495"
+    },
+    {
+      "$oid": "6914a47c949430af41091687"
+    }
+  ],
+  "path": [
+    "grocery",
+    "beauty-peronal",
+    "hair-care",
+    "s-f"
+  ],
+  "level": 4,
+  "order": 1,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-14T14:34:48.492Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-14T14:34:48.492Z"
+  },
+  "fullSlug": "grocery/beauty-peronal/hair-care/s-f",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69173ef74a8ee95490b60b23"
+  },
+  "name": "Conditioner",
+  "slug": "c-s",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763131121/uploads/xilhac2pc3qtrz3rugjx.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "6914a405949430af41091662"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69149fe6949430af41091495"
+    },
+    {
+      "$oid": "6914a405949430af41091662"
+    }
+  ],
+  "path": [
+    "grocery",
+    "beauty-peronal",
+    "bath-body",
+    "c-s"
+  ],
+  "level": 4,
+  "order": 7,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-14T14:38:47.872Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-14T14:38:47.872Z"
+  },
+  "fullSlug": "grocery/beauty-peronal/bath-body/c-s",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69183b21e36ac32cc35b7a57"
+  },
+  "name": "Tomato Ketchup",
+  "slug": "tomato-k",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763195675/uploads/fch1c99r16bnjdtalmiq.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "6913407c9043f888dc5b5fc8"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c35"
+    },
+    {
+      "$oid": "6913407c9043f888dc5b5fc8"
+    }
+  ],
+  "path": [
+    "grocery",
+    "snacks-drinks",
+    "sauces-spread",
+    "tomato-k"
+  ],
+  "level": 4,
+  "order": 1,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-15T08:34:41.934Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-15T08:34:41.934Z"
+  },
+  "fullSlug": "grocery/snacks-drinks/sauces-spread/tomato-k",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691840abe36ac32cc35b86ff"
+  },
+  "name": "Mayonaise",
+  "slug": "m-s",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763197095/uploads/jz8aw6op5cqfqqvbgria.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "6913407c9043f888dc5b5fc8"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c35"
+    },
+    {
+      "$oid": "6913407c9043f888dc5b5fc8"
+    }
+  ],
+  "path": [
+    "grocery",
+    "snacks-drinks",
+    "sauces-spread",
+    "m-s"
+  ],
+  "level": 4,
+  "order": 2,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-15T08:58:19.794Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-15T08:58:19.794Z"
+  },
+  "fullSlug": "grocery/snacks-drinks/sauces-spread/m-s",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69184162e36ac32cc35b872e"
+  },
+  "name": "Chuteny & pickle",
+  "slug": "s-p",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763197277/uploads/icntzv7zv5mhccztixpm.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "6913407c9043f888dc5b5fc8"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c35"
+    },
+    {
+      "$oid": "6913407c9043f888dc5b5fc8"
+    }
+  ],
+  "path": [
+    "grocery",
+    "snacks-drinks",
+    "sauces-spread",
+    "s-p"
+  ],
+  "level": 4,
+  "order": 3,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-15T09:01:22.205Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-15T09:01:22.205Z"
+  },
+  "fullSlug": "grocery/snacks-drinks/sauces-spread/s-p",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6918423ae36ac32cc35b8755"
+  },
+  "name": "Asian Sauces",
+  "slug": "a-s",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763197493/uploads/geijz2lmkgunmnpwbgip.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "6913407c9043f888dc5b5fc8"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c35"
+    },
+    {
+      "$oid": "6913407c9043f888dc5b5fc8"
+    }
+  ],
+  "path": [
+    "grocery",
+    "snacks-drinks",
+    "sauces-spread",
+    "a-s"
+  ],
+  "level": 4,
+  "order": 4,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-15T09:04:58.879Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-15T09:04:58.879Z"
+  },
+  "fullSlug": "grocery/snacks-drinks/sauces-spread/a-s",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69185178e36ac32cc35b8a37"
+  },
+  "name": "Eggs",
+  "slug": "e-g",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763201398/uploads/ymxt1l8npipd61ojakin.gif",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "69131b539043f888dc5b54a5"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c31"
+    },
+    {
+      "$oid": "69131b539043f888dc5b54a5"
+    }
+  ],
+  "path": [
+    "grocery",
+    "grocery-kitchen",
+    "dairybreadeggs-dairybreadeggs",
+    "e-g"
+  ],
+  "level": 4,
+  "order": 3,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-15T10:10:00.053Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-15T10:10:00.053Z"
+  },
+  "fullSlug": "grocery/grocery-kitchen/dairybreadeggs-dairybreadeggs/e-g",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69185f76e36ac32cc35b8f3b"
+  },
+  "name": "Repellents & Disinfectants",
+  "slug": "c-y",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763204978/uploads/kqkj6eyenr1rso3xbcm8.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "6914a786949430af410917b1"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "6914a037949430af410914b0"
+    },
+    {
+      "$oid": "6914a786949430af410917b1"
+    }
+  ],
+  "path": [
+    "grocery",
+    "household-essentials",
+    "cleaners-repellents",
+    "c-y"
+  ],
+  "level": 4,
+  "order": 1,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-15T11:09:42.900Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-15T11:09:42.900Z"
+  },
+  "fullSlug": "grocery/household-essentials/cleaners-repellents/c-y",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691860b1e36ac32cc35b8f6a"
+  },
+  "name": "Liquid Deter",
+  "slug": "d-f",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763205292/uploads/akrmx2v5waypws143tfy.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "6914a786949430af410917b1"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "6914a037949430af410914b0"
+    },
+    {
+      "$oid": "6914a786949430af410917b1"
+    }
+  ],
+  "path": [
+    "grocery",
+    "household-essentials",
+    "cleaners-repellents",
+    "d-f"
+  ],
+  "level": 4,
+  "order": 2,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-15T11:14:57.077Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-15T11:14:57.077Z"
+  },
+  "fullSlug": "grocery/household-essentials/cleaners-repellents/d-f",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69186d4fe36ac32cc35ba54a"
+  },
+  "name": "Electronic",
+  "slug": "e-s",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763208526/uploads/mqpwm4pgyhwnkdaqykhm.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "MASTER",
+  "parent": null,
+  "ancestors": [],
+  "path": [
+    "e-s"
+  ],
+  "level": 1,
+  "order": 3,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-15T12:08:47.982Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-15T12:08:47.982Z"
+  },
+  "fullSlug": "e-s",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69186de5e36ac32cc35ba565"
+  },
+  "name": "Stationary",
+  "slug": "s-t",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763208676/uploads/dgc6g9xaoysknqf5ldzc.jpg",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "MASTER",
+  "parent": null,
+  "ancestors": [],
+  "path": [
+    "s-t"
+  ],
+  "level": 1,
+  "order": 4,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-15T12:11:17.898Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-15T12:11:17.898Z"
+  },
+  "fullSlug": "s-t",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69186e43e36ac32cc35ba580"
+  },
+  "name": "Pet Store",
+  "slug": "p-s",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763208770/uploads/k6k3d42elgbr45myefyh.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "MASTER",
+  "parent": null,
+  "ancestors": [],
+  "path": [
+    "p-s"
+  ],
+  "level": 1,
+  "order": 5,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-15T12:12:51.647Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-15T12:12:51.647Z"
+  },
+  "fullSlug": "p-s",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69186e71e36ac32cc35ba597"
+  },
+  "name": "Premium",
+  "slug": "p-m",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763208815/uploads/xkaccpbuw1veah5t6vcs.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "MASTER",
+  "parent": null,
+  "ancestors": [],
+  "path": [
+    "p-m"
+  ],
+  "level": 1,
+  "order": 6,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-15T12:13:37.241Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-15T12:13:37.241Z"
+  },
+  "fullSlug": "p-m",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69187ffde36ac32cc35bbc4a"
+  },
+  "name": "Dry Fruits Snacks",
+  "slug": "d-s",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763213303/uploads/majegvwknndav5fhbkef.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "6913244f9043f888dc5b592f"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c31"
+    },
+    {
+      "$oid": "6913244f9043f888dc5b592f"
+    }
+  ],
+  "path": [
+    "grocery",
+    "grocery-kitchen",
+    "dry-fruits",
+    "d-s"
+  ],
+  "level": 4,
+  "order": 1,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-15T13:28:29.737Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-15T13:28:29.737Z"
+  },
+  "fullSlug": "grocery/grocery-kitchen/dry-fruits/d-s",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691880b1e36ac32cc35bbc91"
+  },
+  "name": "Rice",
+  "slug": "r-s",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763213484/uploads/ur1kovglbtss6bpm7kfs.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "691324069043f888dc5b5916"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c31"
+    },
+    {
+      "$oid": "691324069043f888dc5b5916"
+    }
+  ],
+  "path": [
+    "grocery",
+    "grocery-kitchen",
+    "rice-dal",
+    "r-s"
+  ],
+  "level": 4,
+  "order": 1,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-15T13:31:29.754Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-15T13:31:29.754Z"
+  },
+  "fullSlug": "grocery/grocery-kitchen/rice-dal/r-s",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69188131e36ac32cc35bbcb8"
+  },
+  "name": "Dal",
+  "slug": "d-l",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763213613/uploads/mqbyputb1s05fdzbq20t.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "691324069043f888dc5b5916"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c31"
+    },
+    {
+      "$oid": "691324069043f888dc5b5916"
+    }
+  ],
+  "path": [
+    "grocery",
+    "grocery-kitchen",
+    "rice-dal",
+    "d-l"
+  ],
+  "level": 4,
+  "order": 2,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-15T13:33:37.998Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-15T13:33:37.998Z"
+  },
+  "fullSlug": "grocery/grocery-kitchen/rice-dal/d-l",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69188283e36ac32cc35bbce3"
+  },
+  "name": "Chhole,Rajma & more",
+  "slug": "c-r",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763213950/uploads/wvi0hkw1fmaibjsnuck8.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "691324069043f888dc5b5916"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c31"
+    },
+    {
+      "$oid": "691324069043f888dc5b5916"
+    }
+  ],
+  "path": [
+    "grocery",
+    "grocery-kitchen",
+    "rice-dal",
+    "c-r"
+  ],
+  "level": 4,
+  "order": 3,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-15T13:39:15.155Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-15T13:39:15.155Z"
+  },
+  "fullSlug": "grocery/grocery-kitchen/rice-dal/c-r",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691882a8e36ac32cc35bbcfe"
+  },
+  "name": "Whole Dal",
+  "slug": "w-d",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763213987/uploads/skkqqhphjyo3nangk5eo.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "691324069043f888dc5b5916"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c31"
+    },
+    {
+      "$oid": "691324069043f888dc5b5916"
+    }
+  ],
+  "path": [
+    "grocery",
+    "grocery-kitchen",
+    "rice-dal",
+    "w-d"
+  ],
+  "level": 4,
+  "order": 4,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-15T13:39:52.561Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-15T13:39:52.561Z"
+  },
+  "fullSlug": "grocery/grocery-kitchen/rice-dal/w-d",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691882c3e36ac32cc35bbd15"
+  },
+  "name": "Loose Rice",
+  "slug": "l-r",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763214013/uploads/zowjrehj7shdq2dckdqu.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "691324069043f888dc5b5916"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c31"
+    },
+    {
+      "$oid": "691324069043f888dc5b5916"
+    }
+  ],
+  "path": [
+    "grocery",
+    "grocery-kitchen",
+    "rice-dal",
+    "l-r"
+  ],
+  "level": 4,
+  "order": 5,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-15T13:40:19.375Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-15T13:40:19.375Z"
+  },
+  "fullSlug": "grocery/grocery-kitchen/rice-dal/l-r",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691882dbe36ac32cc35bbd30"
+  },
+  "name": "Loose Dal",
+  "slug": "l-d",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763214037/uploads/kwvrjcnqxkafdkrc5eyc.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "691324069043f888dc5b5916"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c31"
+    },
+    {
+      "$oid": "691324069043f888dc5b5916"
+    }
+  ],
+  "path": [
+    "grocery",
+    "grocery-kitchen",
+    "rice-dal",
+    "l-d"
+  ],
+  "level": 4,
+  "order": 6,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-15T13:40:43.109Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-15T13:40:43.109Z"
+  },
+  "fullSlug": "grocery/grocery-kitchen/rice-dal/l-d",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691882fce36ac32cc35bbd47"
+  },
+  "name": "Atta",
+  "slug": "a-t",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763214069/uploads/ftgjp3pf2ak13rjthtdp.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "69131d299043f888dc5b5621"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c31"
+    },
+    {
+      "$oid": "69131d299043f888dc5b5621"
+    }
+  ],
+  "path": [
+    "grocery",
+    "grocery-kitchen",
+    "attarice-dal",
+    "a-t"
+  ],
+  "level": 4,
+  "order": 1,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-15T13:41:16.432Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-15T13:41:16.432Z"
+  },
+  "fullSlug": "grocery/grocery-kitchen/attarice-dal/a-t",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6918831ce36ac32cc35bbd62"
+  },
+  "name": "Sooji & Meda",
+  "slug": "s-m",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763214103/uploads/k4lyiwch9wy1m7jxxz2u.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "69131d299043f888dc5b5621"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c31"
+    },
+    {
+      "$oid": "69131d299043f888dc5b5621"
+    }
+  ],
+  "path": [
+    "grocery",
+    "grocery-kitchen",
+    "attarice-dal",
+    "s-m"
+  ],
+  "level": 4,
+  "order": 2,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-15T13:41:48.927Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-15T13:41:48.927Z"
+  },
+  "fullSlug": "grocery/grocery-kitchen/attarice-dal/s-m",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6918834ee36ac32cc35bbd79"
+  },
+  "name": "Besan & more",
+  "slug": "b-m",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763214151/uploads/ixwhfiawqunt0hwtgg8g.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "69131d299043f888dc5b5621"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c31"
+    },
+    {
+      "$oid": "69131d299043f888dc5b5621"
+    }
+  ],
+  "path": [
+    "grocery",
+    "grocery-kitchen",
+    "attarice-dal",
+    "b-m"
+  ],
+  "level": 4,
+  "order": 3,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-15T13:42:38.324Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-15T13:42:38.324Z"
+  },
+  "fullSlug": "grocery/grocery-kitchen/attarice-dal/b-m",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6918838be36ac32cc35bbf3a"
+  },
+  "name": "Refind Oil",
+  "slug": "r-o",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763214215/uploads/hy3ime57pq7mg3ffebrz.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "691323a99043f888dc5b58fd"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c31"
+    },
+    {
+      "$oid": "691323a99043f888dc5b58fd"
+    }
+  ],
+  "path": [
+    "grocery",
+    "grocery-kitchen",
+    "oil-ghee",
+    "r-o"
+  ],
+  "level": 4,
+  "order": 1,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-15T13:43:39.929Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-15T13:43:39.929Z"
+  },
+  "fullSlug": "grocery/grocery-kitchen/oil-ghee/r-o",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691883a2e36ac32cc35bbf51"
+  },
+  "name": "Oil",
+  "slug": "o-l",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763214237/uploads/ewkcrd6d5ldwmwec2t1w.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "691323a99043f888dc5b58fd"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c31"
+    },
+    {
+      "$oid": "691323a99043f888dc5b58fd"
+    }
+  ],
+  "path": [
+    "grocery",
+    "grocery-kitchen",
+    "oil-ghee",
+    "o-l"
+  ],
+  "level": 4,
+  "order": 2,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-15T13:44:02.040Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-15T13:44:02.040Z"
+  },
+  "fullSlug": "grocery/grocery-kitchen/oil-ghee/o-l",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691883b6e36ac32cc35bbf68"
+  },
+  "name": "Desi Ghee",
+  "slug": "d-g",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763214258/uploads/zddujuyqaz0qznsgehzy.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "691323a99043f888dc5b58fd"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c31"
+    },
+    {
+      "$oid": "691323a99043f888dc5b58fd"
+    }
+  ],
+  "path": [
+    "grocery",
+    "grocery-kitchen",
+    "oil-ghee",
+    "d-g"
+  ],
+  "level": 4,
+  "order": 3,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-15T13:44:22.206Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-15T13:44:22.206Z"
+  },
+  "fullSlug": "grocery/grocery-kitchen/oil-ghee/d-g",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6918848ee36ac32cc35bbfab"
+  },
+  "name": "Whole Spices",
+  "slug": "w-s",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763214474/uploads/nkcippl5zpf3bssekkzb.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "691322aa9043f888dc5b5779"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c31"
+    },
+    {
+      "$oid": "691322aa9043f888dc5b5779"
+    }
+  ],
+  "path": [
+    "grocery",
+    "grocery-kitchen",
+    "powder-wholemasale",
+    "w-s"
+  ],
+  "level": 4,
+  "order": 1,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-15T13:47:58.284Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-15T13:47:58.284Z"
+  },
+  "fullSlug": "grocery/grocery-kitchen/powder-wholemasale/w-s",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691884cee36ac32cc35bbfc6"
+  },
+  "name": "Salt,Sugar & Jaggery",
+  "slug": "s-s",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763214537/uploads/slz2sbbsef6sitmhbucr.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "691322aa9043f888dc5b5779"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c31"
+    },
+    {
+      "$oid": "691322aa9043f888dc5b5779"
+    }
+  ],
+  "path": [
+    "grocery",
+    "grocery-kitchen",
+    "powder-wholemasale",
+    "s-s"
+  ],
+  "level": 4,
+  "order": 2,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-15T13:49:02.116Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-15T13:49:02.116Z"
+  },
+  "fullSlug": "grocery/grocery-kitchen/powder-wholemasale/s-s",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6918850ee36ac32cc35bbfe1"
+  },
+  "name": "Flavours masale",
+  "slug": "f-m",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763214601/uploads/domtbfkttjngpfid1ggi.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "691322aa9043f888dc5b5779"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c31"
+    },
+    {
+      "$oid": "691322aa9043f888dc5b5779"
+    }
+  ],
+  "path": [
+    "grocery",
+    "grocery-kitchen",
+    "powder-wholemasale",
+    "f-m"
+  ],
+  "level": 4,
+  "order": 3,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-15T13:50:06.312Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-15T13:50:06.312Z"
+  },
+  "fullSlug": "grocery/grocery-kitchen/powder-wholemasale/f-m",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69188534e36ac32cc35bbffc"
+  },
+  "name": "Hearbs & Seasoning",
+  "slug": "h-s",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763214639/uploads/gvyik3yjmy4go26nja6k.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "691322aa9043f888dc5b5779"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c31"
+    },
+    {
+      "$oid": "691322aa9043f888dc5b5779"
+    }
+  ],
+  "path": [
+    "grocery",
+    "grocery-kitchen",
+    "powder-wholemasale",
+    "h-s"
+  ],
+  "level": 4,
+  "order": 4,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-15T13:50:44.430Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-15T13:50:44.430Z"
+  },
+  "fullSlug": "grocery/grocery-kitchen/powder-wholemasale/h-s",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69197393e36ac32cc35bd749"
+  },
+  "name": "Glucose & Marie",
+  "slug": "m-g",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763275663/uploads/wugl7qkftysamskpagxf.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "691323699043f888dc5b58e4"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c31"
+    },
+    {
+      "$oid": "691323699043f888dc5b58e4"
+    }
+  ],
+  "path": [
+    "grocery",
+    "grocery-kitchen",
+    "bakery-biscuits",
+    "m-g"
+  ],
+  "level": 4,
+  "order": 1,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-16T06:47:47.425Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-16T06:47:47.425Z"
+  },
+  "fullSlug": "grocery/grocery-kitchen/bakery-biscuits/m-g",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691973bee36ac32cc35bd760"
+  },
+  "name": "Ruks & Wafers",
+  "slug": "r-k",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763275704/uploads/tifh2sxo0z87f0hdphs7.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "691323699043f888dc5b58e4"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c31"
+    },
+    {
+      "$oid": "691323699043f888dc5b58e4"
+    }
+  ],
+  "path": [
+    "grocery",
+    "grocery-kitchen",
+    "bakery-biscuits",
+    "r-k"
+  ],
+  "level": 4,
+  "order": 2,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-16T06:48:30.174Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-16T06:48:30.174Z"
+  },
+  "fullSlug": "grocery/grocery-kitchen/bakery-biscuits/r-k",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691973f7e36ac32cc35bd789"
+  },
+  "name": "Cookies",
+  "slug": "c-c",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763275760/uploads/urdibbtmdiyzqchf9nex.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "691323699043f888dc5b58e4"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c31"
+    },
+    {
+      "$oid": "691323699043f888dc5b58e4"
+    }
+  ],
+  "path": [
+    "grocery",
+    "grocery-kitchen",
+    "bakery-biscuits",
+    "c-c"
+  ],
+  "level": 4,
+  "order": 3,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-16T06:49:27.168Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-16T06:49:27.168Z"
+  },
+  "fullSlug": "grocery/grocery-kitchen/bakery-biscuits/c-c",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6919742fe36ac32cc35bd7a4"
+  },
+  "name": "Gifts Pack",
+  "slug": "g-p",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763275819/uploads/o6jo9isvqjyrc8nd6yxe.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "691323699043f888dc5b58e4"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c31"
+    },
+    {
+      "$oid": "691323699043f888dc5b58e4"
+    }
+  ],
+  "path": [
+    "grocery",
+    "grocery-kitchen",
+    "bakery-biscuits",
+    "g-p"
+  ],
+  "level": 4,
+  "order": 4,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-16T06:50:23.826Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-16T06:50:23.826Z"
+  },
+  "fullSlug": "grocery/grocery-kitchen/bakery-biscuits/g-p",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69197460e36ac32cc35bd7bf"
+  },
+  "name": "Cream Biscuits",
+  "slug": "c-b",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763275868/uploads/d3siqyzoraq69liwdops.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "691323699043f888dc5b58e4"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c31"
+    },
+    {
+      "$oid": "691323699043f888dc5b58e4"
+    }
+  ],
+  "path": [
+    "grocery",
+    "grocery-kitchen",
+    "bakery-biscuits",
+    "c-b"
+  ],
+  "level": 4,
+  "order": 5,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-16T06:51:12.302Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-16T06:51:12.302Z"
+  },
+  "fullSlug": "grocery/grocery-kitchen/bakery-biscuits/c-b",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69197496e36ac32cc35bd7da"
+  },
+  "name": "Healthy & Digestive",
+  "slug": "h-d",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763275920/uploads/v8wncsaessjppkcxs00l.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "691323699043f888dc5b58e4"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c31"
+    },
+    {
+      "$oid": "691323699043f888dc5b58e4"
+    }
+  ],
+  "path": [
+    "grocery",
+    "grocery-kitchen",
+    "bakery-biscuits",
+    "h-d"
+  ],
+  "level": 4,
+  "order": 6,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-16T06:52:06.764Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-16T06:52:06.764Z"
+  },
+  "fullSlug": "grocery/grocery-kitchen/bakery-biscuits/h-d",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6919755ce36ac32cc35bd841"
+  },
+  "name": "Sweet & Salt",
+  "slug": "s-frgv",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763276119/uploads/u71gvqmzirrj8kgclujb.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "691323699043f888dc5b58e4"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c31"
+    },
+    {
+      "$oid": "691323699043f888dc5b58e4"
+    }
+  ],
+  "path": [
+    "grocery",
+    "grocery-kitchen",
+    "bakery-biscuits",
+    "s-frgv"
+  ],
+  "level": 4,
+  "order": 7,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-16T06:55:24.199Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-16T06:55:24.199Z"
+  },
+  "fullSlug": "grocery/grocery-kitchen/bakery-biscuits/s-frgv",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691975aee36ac32cc35bd875"
+  },
+  "name": "Cake & Rolls",
+  "slug": "cc-gf",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763276198/uploads/t7wemddiiblssbn9expw.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "691323699043f888dc5b58e4"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c31"
+    },
+    {
+      "$oid": "691323699043f888dc5b58e4"
+    }
+  ],
+  "path": [
+    "grocery",
+    "grocery-kitchen",
+    "bakery-biscuits",
+    "cc-gf"
+  ],
+  "level": 4,
+  "order": 8,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-16T06:56:46.421Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-16T06:56:46.421Z"
+  },
+  "fullSlug": "grocery/grocery-kitchen/bakery-biscuits/cc-gf",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69197759e36ac32cc35bd8b0"
+  },
+  "name": "Cream & Whitener",
+  "slug": "c-whitener",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763276629/uploads/b4hiby1v4uqnxgrfzks9.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "69131b539043f888dc5b54a5"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c31"
+    },
+    {
+      "$oid": "69131b539043f888dc5b54a5"
+    }
+  ],
+  "path": [
+    "grocery",
+    "grocery-kitchen",
+    "dairybreadeggs-dairybreadeggs",
+    "c-whitener"
+  ],
+  "level": 4,
+  "order": 9,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-16T07:03:53.501Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-16T07:05:02.812Z"
+  },
+  "fullSlug": "grocery/grocery-kitchen/dairybreadeggs-dairybreadeggs/c-whitener",
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "6919778fe36ac32cc35bd8cb"
+  },
+  "name": "Cheese & Butter",
+  "slug": "heese-utter",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763276680/uploads/j0hg73aqhbkjlepx5bhq.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "69131b539043f888dc5b54a5"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c31"
+    },
+    {
+      "$oid": "69131b539043f888dc5b54a5"
+    }
+  ],
+  "path": [
+    "grocery",
+    "grocery-kitchen",
+    "dairybreadeggs-dairybreadeggs",
+    "heese-utter"
+  ],
+  "level": 4,
+  "order": 4,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-16T07:04:47.160Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-16T07:04:47.160Z"
+  },
+  "fullSlug": "grocery/grocery-kitchen/dairybreadeggs-dairybreadeggs/heese-utter",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6919781ae36ac32cc35bd90e"
+  },
+  "name": "Corn Flakes & Kids Cereals",
+  "slug": "eal-s",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763276821/uploads/q16jznepdvgoyylalkih.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "69131b539043f888dc5b54a5"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c31"
+    },
+    {
+      "$oid": "69131b539043f888dc5b54a5"
+    }
+  ],
+  "path": [
+    "grocery",
+    "grocery-kitchen",
+    "dairybreadeggs-dairybreadeggs",
+    "eal-s"
+  ],
+  "level": 4,
+  "order": 10,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-16T07:07:06.372Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-16T07:07:06.372Z"
+  },
+  "fullSlug": "grocery/grocery-kitchen/dairybreadeggs-dairybreadeggs/eal-s",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69197883e36ac32cc35bd92d"
+  },
+  "name": "Poha,Daliya & Grains ",
+  "slug": "p-gxbjns",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763276924/uploads/qcp1fwjmwyyohh74zfgg.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "69131b539043f888dc5b54a5"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c31"
+    },
+    {
+      "$oid": "69131b539043f888dc5b54a5"
+    }
+  ],
+  "path": [
+    "grocery",
+    "grocery-kitchen",
+    "dairybreadeggs-dairybreadeggs",
+    "p-gxbjns"
+  ],
+  "level": 4,
+  "order": 11,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-16T07:08:51.405Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-16T07:08:51.405Z"
+  },
+  "fullSlug": "grocery/grocery-kitchen/dairybreadeggs-dairybreadeggs/p-gxbjns",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69197d22e36ac32cc35bde44"
+  },
+  "name": "Dry Fruits",
+  "slug": "ddd-fff",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763278109/uploads/xqzpk6vs3sgo1jwdszop.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "6913244f9043f888dc5b592f"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c31"
+    },
+    {
+      "$oid": "6913244f9043f888dc5b592f"
+    }
+  ],
+  "path": [
+    "grocery",
+    "grocery-kitchen",
+    "dry-fruits",
+    "ddd-fff"
+  ],
+  "level": 4,
+  "order": 2,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-16T07:28:34.514Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-16T07:28:34.514Z"
+  },
+  "fullSlug": "grocery/grocery-kitchen/dry-fruits/ddd-fff",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69197d84e36ac32cc35bde7c"
+  },
+  "name": "Dates & Seeds",
+  "slug": "dddd-ssss",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763278205/uploads/kcztuv5ic76u3kcbierz.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "6913244f9043f888dc5b592f"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c31"
+    },
+    {
+      "$oid": "6913244f9043f888dc5b592f"
+    }
+  ],
+  "path": [
+    "grocery",
+    "grocery-kitchen",
+    "dry-fruits",
+    "dddd-ssss"
+  ],
+  "level": 4,
+  "order": 3,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-16T07:30:12.975Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-16T07:30:12.975Z"
+  },
+  "fullSlug": "grocery/grocery-kitchen/dry-fruits/dddd-ssss",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69197dcae36ac32cc35bde9b"
+  },
+  "name": "Premium",
+  "slug": "prem-ium",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763278277/uploads/ebcl8rbrsshdkb8q46u8.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "6913244f9043f888dc5b592f"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c31"
+    },
+    {
+      "$oid": "6913244f9043f888dc5b592f"
+    }
+  ],
+  "path": [
+    "grocery",
+    "grocery-kitchen",
+    "dry-fruits",
+    "prem-ium"
+  ],
+  "level": 4,
+  "order": 4,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-16T07:31:22.799Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-16T07:31:22.799Z"
+  },
+  "fullSlug": "grocery/grocery-kitchen/dry-fruits/prem-ium",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69197e89e36ac32cc35bdee1"
+  },
+  "name": "Detergent Powder & Bars",
+  "slug": "dete-rgent",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763278468/uploads/gu9lvbfoeqfo1i4ygrxv.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "6914a786949430af410917b1"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "6914a037949430af410914b0"
+    },
+    {
+      "$oid": "6914a786949430af410917b1"
+    }
+  ],
+  "path": [
+    "grocery",
+    "household-essentials",
+    "cleaners-repellents",
+    "dete-rgent"
+  ],
+  "level": 4,
+  "order": 3,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-16T07:34:33.104Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-16T07:34:33.104Z"
+  },
+  "fullSlug": "grocery/household-essentials/cleaners-repellents/dete-rgent",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69197ecde36ac32cc35bdf00"
+  },
+  "name": "Laundry Additives",
+  "slug": "laundry-additives",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763278538/uploads/tpiwixsztkhmoemtk2pq.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "6914a786949430af410917b1"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "6914a037949430af410914b0"
+    },
+    {
+      "$oid": "6914a786949430af410917b1"
+    }
+  ],
+  "path": [
+    "grocery",
+    "household-essentials",
+    "cleaners-repellents",
+    "laundry-additives"
+  ],
+  "level": 4,
+  "order": 4,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-16T07:35:41.913Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-16T07:35:41.913Z"
+  },
+  "fullSlug": "grocery/household-essentials/cleaners-repellents/laundry-additives",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69197efde36ac32cc35bdf17"
+  },
+  "name": "Dishwashing Gels & Bars",
+  "slug": "diswa-sing",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763278585/uploads/ogmkpbw1jgixt5an3flk.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "6914a786949430af410917b1"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "6914a037949430af410914b0"
+    },
+    {
+      "$oid": "6914a786949430af410917b1"
+    }
+  ],
+  "path": [
+    "grocery",
+    "household-essentials",
+    "cleaners-repellents",
+    "diswa-sing"
+  ],
+  "level": 4,
+  "order": 5,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-16T07:36:29.607Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-16T07:36:29.607Z"
+  },
+  "fullSlug": "grocery/household-essentials/cleaners-repellents/diswa-sing",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69197f2ae36ac32cc35bdf32"
+  },
+  "name": "Toilet Cleaner",
+  "slug": "toilet-leaner",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763278630/uploads/pvyk4mdgzuacjfowjj3s.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "6914a786949430af410917b1"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "6914a037949430af410914b0"
+    },
+    {
+      "$oid": "6914a786949430af410917b1"
+    }
+  ],
+  "path": [
+    "grocery",
+    "household-essentials",
+    "cleaners-repellents",
+    "toilet-leaner"
+  ],
+  "level": 4,
+  "order": 6,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-16T07:37:14.023Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-16T07:37:14.023Z"
+  },
+  "fullSlug": "grocery/household-essentials/cleaners-repellents/toilet-leaner",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69197f53e36ac32cc35bdf4d"
+  },
+  "name": "Floor Cleaner",
+  "slug": "floor-cleaner",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763278670/uploads/mirqtzlvdaxiyjtg8mba.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "6914a786949430af410917b1"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "6914a037949430af410914b0"
+    },
+    {
+      "$oid": "6914a786949430af410917b1"
+    }
+  ],
+  "path": [
+    "grocery",
+    "household-essentials",
+    "cleaners-repellents",
+    "floor-cleaner"
+  ],
+  "level": 4,
+  "order": 7,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-16T07:37:55.560Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-16T07:37:55.560Z"
+  },
+  "fullSlug": "grocery/household-essentials/cleaners-repellents/floor-cleaner",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69197f8de36ac32cc35bdf68"
+  },
+  "name": "Glass,Metal Cleaner",
+  "slug": "plant-proteinswf",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763278730/uploads/uqwzv2qzbfy5wqvimd1s.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "6914a786949430af410917b1"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "6914a037949430af410914b0"
+    },
+    {
+      "$oid": "6914a786949430af410917b1"
+    }
+  ],
+  "path": [
+    "grocery",
+    "household-essentials",
+    "cleaners-repellents",
+    "plant-proteinswf"
+  ],
+  "level": 4,
+  "order": 8,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-16T07:38:53.435Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-16T07:38:53.435Z"
+  },
+  "fullSlug": "grocery/household-essentials/cleaners-repellents/plant-proteinswf",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69197fdfe36ac32cc35bdf83"
+  },
+  "name": "Dishwasing Accessories",
+  "slug": "dishwasing-accessories",
+  "subtitle": "",
+  "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763278811/uploads/ympubqjjbk1r8ycn1rhs.png",
+  "metaTitle": "",
+  "metaKeywords": "",
+  "metaDescription": "",
+  "markup": "",
+  "type": "SUBCATEGORY",
+  "parent": {
+    "$oid": "6914a786949430af410917b1"
+  },
+  "ancestors": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "6914a037949430af410914b0"
+    },
+    {
+      "$oid": "6914a786949430af410917b1"
+    }
+  ],
+  "path": [
+    "grocery",
+    "household-essentials",
+    "cleaners-repellents",
+    "dishwasing-accessories"
+  ],
+  "level": 4,
+  "order": 9,
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "createdAt": {
+    "$date": "2025-11-16T07:40:15.892Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-16T07:40:15.892Z"
+  },
+  "fullSlug": "grocery/household-essentials/cleaners-repellents/dishwasing-accessories",
+  "__v": 0
+}]

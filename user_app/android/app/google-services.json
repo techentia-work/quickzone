@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "239436186721",
+    "project_id": "techentia-quickzon",
+    "storage_bucket": "techentia-quickzon.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239436186721:android:b4bf3db6472c5d6a57d620",
+        "android_client_info": {
+          "package_name": "com.example.quickzon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVWJcnyxPwCAtfxZ-aiGTAD7fPGoWtUc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

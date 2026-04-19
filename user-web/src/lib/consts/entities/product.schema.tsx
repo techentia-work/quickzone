@@ -1,0 +1,62 @@
+// @/lib/config/product.schema.ts
+import { FilterSchema } from '@/lib/types';
+
+export const productFilterSchema: FilterSchema = {
+    fields: {
+        page: { type: 'number', label: 'Page' },
+        limit: { type: 'number', label: 'Items per page' },
+        sortBy: { type: 'string', label: 'Sort by' },
+        sortOrder: { type: 'string', label: 'Sort order' },
+        search: { type: 'string', label: 'Search' },
+
+        brand: { type: 'array', label: 'Brands' },
+        'variants.price[gte]': { type: 'number', label: 'Min Price' },
+        'variants.price[lte]': { type: 'number', label: 'Max Price' },
+        'variants.inventoryType': { type: 'string', label: 'Inventory Type' },
+        'variants.variantType': { type: 'string', label: 'Variant Type' },
+
+        categoryId: { type: 'string', label: 'Category' },
+        includeSubcategories: { type: 'boolean', label: 'Include Subcategories' },
+
+        isActive: { type: 'boolean', label: 'Active' },
+        productType: { type: 'string', label: 'Product Type' },
+        tags: { type: 'array', label: 'Tags' },
+
+        isCOD: { type: 'boolean', label: 'COD Available' },
+        isReturnable: { type: 'boolean', label: 'Returnable' },
+        inStock: { type: 'boolean', label: 'In Stock' },
+    },
+    defaultFilters: {
+        search: '',
+        status: 'all',
+        brand: '',
+        productType: '',
+        isActive: undefined,
+        isApproved: undefined,
+        isDeleted: undefined,
+        categoryId: '',
+        'categoryId.type': '',
+        sellerId: '',
+        'variants.price': { gte: undefined, lte: undefined },
+        'variants.mrp': { gte: undefined, lte: undefined },
+        'variants.discountPercent': { gte: undefined, lte: undefined },
+        'variants.stock': { gte: undefined, lte: undefined },
+        'variants.inventoryType': '',
+        'variants.variantType': '',
+        'variants.status': '',
+        taxRate: '',
+        isReturnable: undefined,
+        isCOD: undefined,
+        isCancelable: undefined,
+        maxQtyPerUser: { gte: undefined, lte: undefined },
+        'ratings.avg': { gte: undefined, lte: undefined },
+        popularity: { gte: undefined, lte: undefined },
+        dateRange: undefined,
+        dateFrom: undefined,
+        dateTo: undefined,
+        page: 1,
+        limit: 10,
+        sortBy: 'createdAt',
+        sortOrder: 'desc',
+    },
+};

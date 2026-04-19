@@ -1,0 +1,60 @@
+import { Router } from "express";
+import { authRouter, userRouter, adminRouter } from "../index";
+import { productRouter } from "../product/product.route";
+import { categoryRouter } from "../category/category.route";
+import { cartRouter } from "../cart/cart.route";
+import { addressRouter } from "../address/address.route";
+import { promoRouter } from "../promocode/promocode.route";
+import { orderRouter } from "../order/order.route";
+import { imageRouter } from "../upload/upload.route";
+import featuredRouter from "../featured/featured.route";
+import { deliveryBoyRouter } from "../deliveryBoy/deliveryBoy.route";
+import bannerRouter from "../banner/banner.route";
+import sliderRouter from "../slider/slider.route";
+import qcNotificationRouter from "../notification/notification.route";
+import { walletRouter } from "../wallet/wallet.route";
+import { transactionRouter } from "../transactions/transaction.route";
+import { wishlistRouter } from "../wishlist/wishlist.routes";
+import adminSettingRouter from "../adminSettings/adminSettings.route";
+import showCaseProductsRouter from "../showCaseProducts/showCaseProducts.route";
+import { brandRouter } from "../brand/brand.route";
+import { featuredWeekBrandRouter } from "../featuredWeekBrand/featuredWeekBrand.routes";
+import { shopByStoreRouter } from "../shopByStore/shopByStore.routes";
+import { brandOfTheDayRouter } from "../brandOfTheDay/brandOfTheDay.routes";
+import deliveryLocationRouter from "../delivery-location.routes";
+import { appFeaturedRouter } from "../AppFeatured/appFeatured.routes";
+
+import { appBrandRouter } from "../AppBrand/appBrand.routes";
+
+export const apiRouter = Router();
+
+const API_PREFIX = "/api";
+
+apiRouter.use(`${API_PREFIX}/auth`, authRouter);
+apiRouter.use(`${API_PREFIX}/user`, userRouter);
+apiRouter.use(`${API_PREFIX}/admin`, adminRouter);
+apiRouter.use(`${API_PREFIX}/product`, productRouter);
+apiRouter.use(`${API_PREFIX}/category`, categoryRouter);
+apiRouter.use(`${API_PREFIX}/cart`, cartRouter);
+apiRouter.use(`${API_PREFIX}/address`, addressRouter);
+apiRouter.use(`${API_PREFIX}/promocode`, promoRouter);
+apiRouter.use(`${API_PREFIX}/order`, orderRouter);
+apiRouter.use(`${API_PREFIX}/images`, imageRouter);
+apiRouter.use(`${API_PREFIX}/featured`, featuredRouter);
+apiRouter.use(`${API_PREFIX}/app-featured`, appFeaturedRouter);
+apiRouter.use(`${API_PREFIX}/app-brand`, appBrandRouter);
+apiRouter.use(`${API_PREFIX}/featured-week-brand`, featuredWeekBrandRouter);
+apiRouter.use(`${API_PREFIX}/shop-by-store`, shopByStoreRouter);
+apiRouter.use(`${API_PREFIX}/brand-of-the-day`, brandOfTheDayRouter);
+apiRouter.use(`${API_PREFIX}/banner`, bannerRouter);
+apiRouter.use(`${API_PREFIX}/slider`, sliderRouter);
+apiRouter.use(`${API_PREFIX}/delivery-boys`, deliveryBoyRouter);
+apiRouter.use(`${API_PREFIX}/notifications`, qcNotificationRouter);
+apiRouter.use(`${API_PREFIX}/wallet`, walletRouter);
+apiRouter.use(`${API_PREFIX}/transaction`, transactionRouter);
+apiRouter.use(`${API_PREFIX}/wishlist`, wishlistRouter);
+apiRouter.use(`${API_PREFIX}/admin-settings`, adminSettingRouter);
+apiRouter.use(`${API_PREFIX}/showcase-products`, showCaseProductsRouter);
+apiRouter.use(`${API_PREFIX}/brand`, brandRouter);
+apiRouter.use(`${API_PREFIX}/delivery`, deliveryLocationRouter);
+

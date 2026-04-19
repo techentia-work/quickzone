@@ -1,0 +1,11 @@
+flutter_launcher_icons:
+  android: true
+  # ios: true
+  image_path: "assets/images/delivery-boy-logo.png"
+  adaptive_icon_background: "#ffffff"
+  adaptive_icon_foreground: "assets/images/delivery-boy-logo.png"
+  # IMPORTANT: Disable native splash generation
+  # remove_alpha_ios: true
+  # Don't generate any launch screen
+  # android_splash_screen: false
+  # ios_splash_screen: false

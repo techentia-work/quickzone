@@ -1,0 +1,208 @@
+[{
+  "_id": {
+    "$oid": "69138ed3a2c619cf568c23dd"
+  },
+  "title": "banner2",
+  "slug": "dairy-bread-eggs/milk",
+  "description": "",
+  "imageUrl": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1762889922/uploads/yzfah4fpetkqooipqnjn.png",
+  "color": "#ffffff",
+  "order": 2,
+  "position": "TOP",
+  "isActive": true,
+  "isClickable": false,
+  "mapType": "NONE",
+  "mappings": [],
+  "masterCategory": {
+    "$oid": "69125a838dca74fbfecd6c2e"
+  },
+  "category": {
+    "$oid": "69131b539043f888dc5b54a5"
+  },
+  "subcategory": {
+    "$oid": "691357ce9043f888dc5b6bab"
+  },
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2025-11-11T19:30:27.400Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-11T19:38:46.547Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69139106a2c619cf568c2449"
+  },
+  "title": "banner3",
+  "slug": "dairy-bread-eggs/bread-pav",
+  "description": "",
+  "imageUrl": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763136406/uploads/ezhjfi8v9xk5dtznefol.png",
+  "color": "#ffffff",
+  "order": 3,
+  "position": "TOP",
+  "isActive": true,
+  "isClickable": false,
+  "mapType": "NONE",
+  "mappings": [],
+  "masterCategory": {
+    "$oid": "69125a838dca74fbfecd6c2b"
+  },
+  "category": {
+    "$oid": "69131b539043f888dc5b54a5"
+  },
+  "subcategory": [
+    {
+      "$oid": "6914a1c8949430af410915e1"
+    }
+  ],
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2025-11-11T19:39:50.923Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-14T16:06:47.787Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6918717de36ac32cc35ba8c5"
+  },
+  "title": "bn1",
+  "slug": "chips-namkeen/bhujia-mixtures",
+  "description": "daf",
+  "imageUrl": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763210322/uploads/efxxro1xxqckleowla2p.png",
+  "color": "#ffffff",
+  "order": 5,
+  "position": "TOP",
+  "isActive": true,
+  "isClickable": false,
+  "mapType": "NONE",
+  "mappings": [],
+  "masterCategory": {
+    "$oid": "69186d4fe36ac32cc35ba54a"
+  },
+  "category": {
+    "$oid": "69133c639043f888dc5b5e9a"
+  },
+  "subcategory": [
+    {
+      "$oid": "69159e7621b16c4d7533d724"
+    }
+  ],
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2025-11-15T12:26:37.938Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-15T12:38:43.823Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69187476e36ac32cc35baa19"
+  },
+  "title": "afca",
+  "slug": "baby-care/diaper-wipes",
+  "description": "df",
+  "imageUrl": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763210357/uploads/rgx3ekfmfy0hg433aaf0.png",
+  "color": "#ffffff",
+  "order": 1,
+  "position": "TOP",
+  "isActive": true,
+  "isClickable": false,
+  "mapType": "NONE",
+  "mappings": [],
+  "masterCategory": {
+    "$oid": "69186de5e36ac32cc35ba565"
+  },
+  "category": {
+    "$oid": "6914a604949430af41091722"
+  },
+  "subcategory": [
+    {
+      "$oid": "691733064a8ee95490b5fe99"
+    }
+  ],
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2025-11-15T12:39:18.873Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-15T12:39:18.873Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69187491e36ac32cc35baa29"
+  },
+  "title": "argvrw",
+  "slug": "baby-care/baby-health-hygiene",
+  "description": "eaf",
+  "imageUrl": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763210384/uploads/jnijzyosmeuaeciriuui.png",
+  "color": "#ffffff",
+  "order": 4,
+  "position": "TOP",
+  "isActive": true,
+  "isClickable": false,
+  "mapType": "NONE",
+  "mappings": [],
+  "masterCategory": {
+    "$oid": "69186e43e36ac32cc35ba580"
+  },
+  "category": {
+    "$oid": "6914a604949430af41091722"
+  },
+  "subcategory": [
+    {
+      "$oid": "6917344c4a8ee95490b6000e"
+    }
+  ],
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2025-11-15T12:39:45.718Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-15T12:39:45.718Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691874c6e36ac32cc35bab19"
+  },
+  "title": "dzvv",
+  "slug": "frozen-food-ice-cream/cones",
+  "description": "ewf",
+  "imageUrl": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763210437/uploads/dmizolvcewoi4uxw52iq.png",
+  "color": "#ffffff",
+  "order": 6,
+  "position": "TOP",
+  "isActive": true,
+  "isClickable": false,
+  "mapType": "NONE",
+  "mappings": [],
+  "masterCategory": {
+    "$oid": "69186e71e36ac32cc35ba597"
+  },
+  "category": {
+    "$oid": "69133ed29043f888dc5b5f22"
+  },
+  "subcategory": [
+    {
+      "$oid": "691706784a8ee95490b5f127"
+    }
+  ],
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2025-11-15T12:40:38.983Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-15T12:40:38.983Z"
+  },
+  "__v": 0
+}]

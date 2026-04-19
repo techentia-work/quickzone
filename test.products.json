@@ -1,0 +1,434 @@
+[{
+  "_id": {
+    "$oid": "6915e8dd4a8ee95490b5cac8"
+  },
+  "name": "Chips & Namkeen",
+  "slug": "chips-namkeen",
+  "brandId": {
+    "$oid": "691258b68dca74fbfecd6af5"
+  },
+  "categoryId": {
+    "$oid": "691357ce9043f888dc5b6bab"
+  },
+  "categoryPath": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c31"
+    },
+    {
+      "$oid": "69131b539043f888dc5b54a5"
+    },
+    {
+      "$oid": "691357ce9043f888dc5b6bab"
+    }
+  ],
+  "description": "",
+  "shortDescription": "",
+  "metaTitle": "",
+  "metaDescription": "",
+  "metaKeywords": "",
+  "tags": [],
+  "mainImage": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763043547/bulk_uploads/odmit14w0lzvylpygg7z.webp",
+  "images": [
+    "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763043547/bulk_uploads/odmit14w0lzvylpygg7z.webp"
+  ],
+  "productType": "VEG",
+  "isReturnable": true,
+  "isCOD": true,
+  "isCancelable": true,
+  "maxQtyPerUser": 5,
+  "taxRate": "gst_5",
+  "variants": [
+    {
+      "title": "cheese",
+      "sku": "cheese001",
+      "variantType": "packet",
+      "measurement": 250,
+      "measurementUnit": "gm",
+      "price": 110,
+      "mrp": 120,
+      "discountPercent": 9,
+      "stock": 0,
+      "inventoryType": "LIMITED",
+      "status": "SOLD_OUT",
+      "images": [],
+      "_id": {
+        "$oid": "6915eb214a8ee95490b5cdf0"
+      }
+    }
+  ],
+  "status": "PENDING",
+  "isActive": false,
+  "isDeleted": false,
+  "deletedAt": null,
+  "manufacturer": "",
+  "madeIn": "",
+  "fssaiNumber": "",
+  "barcode": "",
+  "ratings": {
+    "avg": 0,
+    "count": 0
+  },
+  "popularity": 0,
+  "featured": false,
+  "searchKeywords": [],
+  "sellerId": null,
+  "isApproved": true,
+  "createdAt": {
+    "$date": "2025-11-13T14:19:09.301Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-19T00:34:25.716Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691600064a8ee95490b5dc25"
+  },
+  "name": "kelloggs cornflakes ST 300g",
+  "slug": "kelloggs-cornflakes-st-300g",
+  "brandId": {
+    "$oid": "691258b68dca74fbfecd6af5"
+  },
+  "categoryId": {
+    "$oid": "6914a1c8949430af410915e1"
+  },
+  "categoryPath": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c31"
+    },
+    {
+      "$oid": "69131b539043f888dc5b54a5"
+    },
+    {
+      "$oid": "6914a1c8949430af410915e1"
+    }
+  ],
+  "description": "",
+  "shortDescription": "",
+  "metaTitle": "",
+  "metaDescription": "",
+  "metaKeywords": "",
+  "tags": [],
+  "mainImage": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763049477/bulk_uploads/dl8oaqdbe8txghy52678.jpg",
+  "images": [
+    "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763049477/bulk_uploads/dl8oaqdbe8txghy52678.jpg"
+  ],
+  "productType": "VEG",
+  "isReturnable": true,
+  "isCOD": true,
+  "isCancelable": true,
+  "maxQtyPerUser": 5,
+  "taxRate": "gst_5",
+  "variants": [
+    {
+      "title": "dd",
+      "sku": "dd002",
+      "variantType": "packet",
+      "measurement": 500,
+      "measurementUnit": "gm",
+      "price": 120,
+      "mrp": 120,
+      "discountPercent": 1,
+      "stock": 9,
+      "inventoryType": "LIMITED",
+      "status": "AVAILABLE",
+      "images": [],
+      "_id": {
+        "$oid": "691600064a8ee95490b5dc26"
+      },
+      "discountedPrice": 118.8
+    }
+  ],
+  "status": "PENDING",
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "manufacturer": "",
+  "madeIn": "",
+  "fssaiNumber": "",
+  "barcode": "",
+  "ratings": {
+    "avg": 0,
+    "count": 0
+  },
+  "popularity": 0,
+  "featured": false,
+  "searchKeywords": [],
+  "sellerId": null,
+  "isApproved": true,
+  "createdAt": {
+    "$date": "2025-11-13T15:57:58.213Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-19T00:37:07.886Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691600394a8ee95490b5dc4b"
+  },
+  "name": "sdvv",
+  "slug": "sdvv",
+  "brandId": {
+    "$oid": "691244f97d3b330d162e67ca"
+  },
+  "categoryId": {
+    "$oid": "69159e7621b16c4d7533d724"
+  },
+  "categoryPath": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c35"
+    },
+    {
+      "$oid": "69133c639043f888dc5b5e9a"
+    },
+    {
+      "$oid": "69159e7621b16c4d7533d724"
+    }
+  ],
+  "description": "",
+  "shortDescription": "",
+  "metaTitle": "",
+  "metaDescription": "",
+  "metaKeywords": "",
+  "tags": [],
+  "mainImage": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763049528/bulk_uploads/czct4egpybntc78zyxw8.jpg",
+  "images": [
+    "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763049528/bulk_uploads/czct4egpybntc78zyxw8.jpg"
+  ],
+  "productType": "NON_VEG",
+  "isReturnable": true,
+  "isCOD": true,
+  "isCancelable": true,
+  "maxQtyPerUser": 5,
+  "taxRate": "gst_5",
+  "variants": [
+    {
+      "title": "ddef",
+      "sku": "dd003",
+      "variantType": "packet",
+      "measurement": 500,
+      "measurementUnit": "gm",
+      "price": 120,
+      "mrp": 120,
+      "discountPercent": 1,
+      "stock": 8,
+      "inventoryType": "LIMITED",
+      "status": "AVAILABLE",
+      "images": [],
+      "_id": {
+        "$oid": "691600394a8ee95490b5dc4c"
+      },
+      "discountedPrice": 118.8
+    }
+  ],
+  "status": "PENDING",
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "manufacturer": "",
+  "madeIn": "",
+  "fssaiNumber": "",
+  "barcode": "",
+  "ratings": {
+    "avg": 0,
+    "count": 0
+  },
+  "popularity": 0,
+  "featured": false,
+  "searchKeywords": [],
+  "sellerId": null,
+  "isApproved": true,
+  "createdAt": {
+    "$date": "2025-11-13T15:58:49.666Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-19T00:27:59.437Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69160a864a8ee95490b5e06a"
+  },
+  "name": "sdfgvsbv",
+  "slug": "sdfgvsbv",
+  "brandId": {
+    "$oid": "691258b68dca74fbfecd6af5"
+  },
+  "categoryId": {
+    "$oid": "69159e4721b16c4d7533d70d"
+  },
+  "categoryPath": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c35"
+    },
+    {
+      "$oid": "69133c639043f888dc5b5e9a"
+    },
+    {
+      "$oid": "69159e4721b16c4d7533d70d"
+    }
+  ],
+  "description": "",
+  "shortDescription": "",
+  "metaTitle": "",
+  "metaDescription": "",
+  "metaKeywords": "",
+  "tags": [],
+  "mainImage": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763052165/bulk_uploads/sqs3gnlrv44sm4z4bovh.webp",
+  "images": [
+    "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763052165/bulk_uploads/sqs3gnlrv44sm4z4bovh.webp"
+  ],
+  "productType": "VEG",
+  "isReturnable": true,
+  "isCOD": true,
+  "isCancelable": true,
+  "maxQtyPerUser": 2,
+  "taxRate": "gst_5",
+  "variants": [
+    {
+      "title": "ddoff",
+      "sku": "ddoff003",
+      "variantType": "packet",
+      "measurement": 100,
+      "measurementUnit": "gm",
+      "price": 650,
+      "mrp": 700,
+      "discountPercent": 10,
+      "stock": 10,
+      "inventoryType": "LIMITED",
+      "status": "AVAILABLE",
+      "images": [],
+      "_id": {
+        "$oid": "69160a864a8ee95490b5e06b"
+      },
+      "discountedPrice": 585
+    }
+  ],
+  "status": "PENDING",
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "manufacturer": "",
+  "madeIn": "",
+  "fssaiNumber": "",
+  "barcode": "",
+  "ratings": {
+    "avg": 0,
+    "count": 0
+  },
+  "popularity": 0,
+  "featured": false,
+  "searchKeywords": [],
+  "sellerId": null,
+  "isApproved": true,
+  "createdAt": {
+    "$date": "2025-11-13T16:42:46.987Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-13T16:42:46.987Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69160abe4a8ee95490b5e09e"
+  },
+  "name": "dsvbasb",
+  "slug": "dsvbasb",
+  "brandId": {
+    "$oid": "691258b68dca74fbfecd6af5"
+  },
+  "categoryId": {
+    "$oid": "6915a04221b16c4d7533d769"
+  },
+  "categoryPath": [
+    {
+      "$oid": "69125a838dca74fbfecd6c2b"
+    },
+    {
+      "$oid": "69125a838dca74fbfecd6c35"
+    },
+    {
+      "$oid": "69133c639043f888dc5b5e9a"
+    },
+    {
+      "$oid": "6915a04221b16c4d7533d769"
+    }
+  ],
+  "description": "",
+  "shortDescription": "",
+  "metaTitle": "",
+  "metaDescription": "",
+  "metaKeywords": "",
+  "tags": [],
+  "mainImage": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763052219/bulk_uploads/oqpz0ksp6gqusizovgtz.jpg",
+  "images": [
+    "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763052219/bulk_uploads/oqpz0ksp6gqusizovgtz.jpg"
+  ],
+  "productType": "NON_VEG",
+  "isReturnable": true,
+  "isCOD": true,
+  "isCancelable": true,
+  "maxQtyPerUser": 2,
+  "taxRate": "gst_5",
+  "variants": [
+    {
+      "title": "ddoff",
+      "sku": "ddoff004",
+      "variantType": "packet",
+      "measurement": 100,
+      "measurementUnit": "gm",
+      "price": 650,
+      "mrp": 700,
+      "discountPercent": 10,
+      "stock": 8,
+      "inventoryType": "LIMITED",
+      "status": "AVAILABLE",
+      "images": [],
+      "_id": {
+        "$oid": "69160abe4a8ee95490b5e09f"
+      },
+      "discountedPrice": 585
+    }
+  ],
+  "status": "PENDING",
+  "isActive": true,
+  "isDeleted": false,
+  "deletedAt": null,
+  "manufacturer": "",
+  "madeIn": "",
+  "fssaiNumber": "",
+  "barcode": "",
+  "ratings": {
+    "avg": 0,
+    "count": 0
+  },
+  "popularity": 0,
+  "featured": false,
+  "searchKeywords": [],
+  "sellerId": null,
+  "isApproved": true,
+  "createdAt": {
+    "$date": "2025-11-13T16:43:42.339Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-18T14:20:48.560Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,778 @@
+{
+    "success": true,
+    "data": [
+        {
+            "_id": "69125a838dca74fbfecd6c2b",
+            "name": "Groceries",
+            "slug": "grocery",
+            "subtitle": "Top quality groceries for your daily needs",
+            "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1762872116/uploads/dkbhucd1ah8drvndhf69.png",
+            "metaTitle": "Best Groceries Online - Fresh & Organic",
+            "metaKeywords": "groceries, fresh, organic, best groceries, daily essentials, online shopping",
+            "metaDescription": "Shop fresh and affordable groceries online. Get everything you need delivered to your doorstep",
+            "markup": "<p>Explore our wide range of grocery products, from fresh produce to pantry essentials.</p>",
+            "type": "MASTER",
+            "parent": null,
+            "ancestors": [],
+            "path": [
+                "grocery"
+            ],
+            "level": 1,
+            "order": 1,
+            "isActive": true,
+            "isDeleted": false,
+            "deletedAt": null,
+            "createdAt": "2025-11-10T21:34:59.471Z",
+            "updatedAt": "2025-11-11T23:12:11.562Z",
+            "fullSlug": "grocery",
+            "__v": 1,
+            "children": [
+                {
+                    "_id": "69125a838dca74fbfecd6c31",
+                    "name": "Grocery & Kitchen",
+                    "slug": "grocery-kitchen",
+                    "subtitle": "Top quality grocery and kitchen products",
+                    "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1760094340/uploads/xeoem5yjx8yvaisyfuov.jpg",
+                    "metaTitle": "Grocery and Kitchen Online - Fresh & Premium",
+                    "metaKeywords": "",
+                    "metaDescription": "Shop the best grocery and kitchen essentials online with fast delivery",
+                    "markup": "<p>Discover our wide range of grocery and kitchen essentials.</p>",
+                    "type": "SUPER",
+                    "parent": {
+                        "_id": "69125a838dca74fbfecd6c2b",
+                        "name": "Groceries",
+                        "slug": "grocery",
+                        "type": "MASTER",
+                        "level": 1,
+                        "fullSlug": "grocery"
+                    },
+                    "ancestors": [
+                        {
+                            "_id": "69125a838dca74fbfecd6c2b",
+                            "name": "Groceries",
+                            "slug": "grocery",
+                            "type": "MASTER",
+                            "level": 1,
+                            "fullSlug": "grocery"
+                        }
+                    ],
+                    "path": [
+                        "grocery",
+                        "grocery-kitchen"
+                    ],
+                    "level": 2,
+                    "order": 1,
+                    "isActive": true,
+                    "isDeleted": false,
+                    "deletedAt": null,
+                    "createdAt": "2025-11-10T21:34:59.645Z",
+                    "updatedAt": "2025-11-11T23:12:11.708Z",
+                    "fullSlug": "grocery/grocery-kitchen",
+                    "__v": 1,
+                    "children": [
+                        {
+                            "_id": "69131b539043f888dc5b54a5",
+                            "name": "Breakfast,Dairy & more",
+                            "slug": "dairybreadeggs-dairybreadeggs",
+                            "subtitle": "",
+                            "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1762859855/uploads/trfhnidcqlhpkkxlzsyh.png",
+                            "metaTitle": "",
+                            "metaKeywords": "",
+                            "metaDescription": "",
+                            "markup": "",
+                            "type": "CATEGORY",
+                            "parent": {
+                                "_id": "69125a838dca74fbfecd6c31",
+                                "name": "Grocery & Kitchen",
+                                "slug": "grocery-kitchen",
+                                "type": "SUPER",
+                                "level": 2,
+                                "fullSlug": "grocery/grocery-kitchen"
+                            },
+                            "ancestors": [
+                                {
+                                    "_id": "69125a838dca74fbfecd6c2b",
+                                    "name": "Groceries",
+                                    "slug": "grocery",
+                                    "type": "MASTER",
+                                    "level": 1,
+                                    "fullSlug": "grocery"
+                                },
+                                {
+                                    "_id": "69125a838dca74fbfecd6c31",
+                                    "name": "Grocery & Kitchen",
+                                    "slug": "grocery-kitchen",
+                                    "type": "SUPER",
+                                    "level": 2,
+                                    "fullSlug": "grocery/grocery-kitchen"
+                                }
+                            ],
+                            "path": [
+                                "grocery",
+                                "grocery-kitchen",
+                                "dairybreadeggs-dairybreadeggs"
+                            ],
+                            "level": 3,
+                            "order": 5,
+                            "isActive": true,
+                            "isDeleted": false,
+                            "deletedAt": null,
+                            "createdAt": "2025-11-11T11:17:39.099Z",
+                            "updatedAt": "2025-11-16T07:11:44.647Z",
+                            "fullSlug": "grocery/grocery-kitchen/dairybreadeggs-dairybreadeggs",
+                            "__v": 1,
+                            "children": [
+                                {
+                                    "_id": "691357ce9043f888dc5b6bab",
+                                    "name": "Milk",
+                                    "slug": "milk-f",
+                                    "subtitle": "",
+                                    "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1762961841/uploads/jtytuphyppoibas4hpx4.png",
+                                    "metaTitle": "",
+                                    "metaKeywords": "",
+                                    "metaDescription": "",
+                                    "markup": "",
+                                    "type": "SUBCATEGORY",
+                                    "parent": {
+                                        "_id": "69131b539043f888dc5b54a5",
+                                        "name": "Breakfast,Dairy & more",
+                                        "slug": "dairybreadeggs-dairybreadeggs",
+                                        "type": "CATEGORY",
+                                        "level": 3,
+                                        "fullSlug": "grocery/grocery-kitchen/dairybreadeggs-dairybreadeggs"
+                                    },
+                                    "ancestors": [
+                                        {
+                                            "_id": "69125a838dca74fbfecd6c2b",
+                                            "name": "Groceries",
+                                            "slug": "grocery",
+                                            "type": "MASTER",
+                                            "level": 1,
+                                            "fullSlug": "grocery"
+                                        },
+                                        {
+                                            "_id": "69125a838dca74fbfecd6c31",
+                                            "name": "Grocery & Kitchen",
+                                            "slug": "grocery-kitchen",
+                                            "type": "SUPER",
+                                            "level": 2,
+                                            "fullSlug": "grocery/grocery-kitchen"
+                                        },
+                                        {
+                                            "_id": "69131b539043f888dc5b54a5",
+                                            "name": "Breakfast,Dairy & more",
+                                            "slug": "dairybreadeggs-dairybreadeggs",
+                                            "type": "CATEGORY",
+                                            "level": 3,
+                                            "fullSlug": "grocery/grocery-kitchen/dairybreadeggs-dairybreadeggs"
+                                        }
+                                    ],
+                                    "path": [
+                                        "grocery",
+                                        "grocery-kitchen",
+                                        "dairybreadeggs-dairybreadeggs",
+                                        "milk-f"
+                                    ],
+                                    "level": 4,
+                                    "order": 1,
+                                    "isActive": true,
+                                    "isDeleted": false,
+                                    "deletedAt": null,
+                                    "createdAt": "2025-11-11T15:35:42.817Z",
+                                    "updatedAt": "2025-11-12T15:37:24.706Z",
+                                    "fullSlug": "grocery/grocery-kitchen/dairybreadeggs-dairybreadeggs/milk-f",
+                                    "__v": 1,
+                                    "children": []
+                                },
+                                {
+                                    "_id": "6914a1c8949430af410915e1",
+                                    "name": "Bread & Pav",
+                                    "slug": "bread-pav",
+                                    "subtitle": "",
+                                    "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1762959811/uploads/avx0vskc0xyzbzuygqm2.png",
+                                    "metaTitle": "",
+                                    "metaKeywords": "",
+                                    "metaDescription": "",
+                                    "markup": "",
+                                    "type": "SUBCATEGORY",
+                                    "parent": {
+                                        "_id": "69131b539043f888dc5b54a5",
+                                        "name": "Breakfast,Dairy & more",
+                                        "slug": "dairybreadeggs-dairybreadeggs",
+                                        "type": "CATEGORY",
+                                        "level": 3,
+                                        "fullSlug": "grocery/grocery-kitchen/dairybreadeggs-dairybreadeggs"
+                                    },
+                                    "ancestors": [
+                                        {
+                                            "_id": "69125a838dca74fbfecd6c2b",
+                                            "name": "Groceries",
+                                            "slug": "grocery",
+                                            "type": "MASTER",
+                                            "level": 1,
+                                            "fullSlug": "grocery"
+                                        },
+                                        {
+                                            "_id": "69125a838dca74fbfecd6c31",
+                                            "name": "Grocery & Kitchen",
+                                            "slug": "grocery-kitchen",
+                                            "type": "SUPER",
+                                            "level": 2,
+                                            "fullSlug": "grocery/grocery-kitchen"
+                                        },
+                                        {
+                                            "_id": "69131b539043f888dc5b54a5",
+                                            "name": "Breakfast,Dairy & more",
+                                            "slug": "dairybreadeggs-dairybreadeggs",
+                                            "type": "CATEGORY",
+                                            "level": 3,
+                                            "fullSlug": "grocery/grocery-kitchen/dairybreadeggs-dairybreadeggs"
+                                        }
+                                    ],
+                                    "path": [
+                                        "grocery",
+                                        "grocery-kitchen",
+                                        "dairybreadeggs-dairybreadeggs",
+                                        "bread-pav"
+                                    ],
+                                    "level": 4,
+                                    "order": 2,
+                                    "isActive": true,
+                                    "isDeleted": false,
+                                    "deletedAt": null,
+                                    "createdAt": "2025-11-12T15:03:36.728Z",
+                                    "updatedAt": "2025-11-12T15:03:36.728Z",
+                                    "fullSlug": "grocery/grocery-kitchen/dairybreadeggs-dairybreadeggs/bread-pav",
+                                    "__v": 0,
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "_id": "69131d299043f888dc5b5621",
+                            "name": "Atta,Meda, & Sooji",
+                            "slug": "attarice-dal",
+                            "subtitle": "",
+                            "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1762861833/uploads/iqrxca8abvd87goo7fsr.png",
+                            "metaTitle": "",
+                            "metaKeywords": "",
+                            "metaDescription": "",
+                            "markup": "",
+                            "type": "CATEGORY",
+                            "parent": {
+                                "_id": "69125a838dca74fbfecd6c31",
+                                "name": "Grocery & Kitchen",
+                                "slug": "grocery-kitchen",
+                                "type": "SUPER",
+                                "level": 2,
+                                "fullSlug": "grocery/grocery-kitchen"
+                            },
+                            "ancestors": [
+                                {
+                                    "_id": "69125a838dca74fbfecd6c2b",
+                                    "name": "Groceries",
+                                    "slug": "grocery",
+                                    "type": "MASTER",
+                                    "level": 1,
+                                    "fullSlug": "grocery"
+                                },
+                                {
+                                    "_id": "69125a838dca74fbfecd6c31",
+                                    "name": "Grocery & Kitchen",
+                                    "slug": "grocery-kitchen",
+                                    "type": "SUPER",
+                                    "level": 2,
+                                    "fullSlug": "grocery/grocery-kitchen"
+                                }
+                            ],
+                            "path": [
+                                "grocery",
+                                "grocery-kitchen",
+                                "attarice-dal"
+                            ],
+                            "level": 3,
+                            "order": 6,
+                            "isActive": true,
+                            "isDeleted": false,
+                            "deletedAt": null,
+                            "createdAt": "2025-11-11T11:25:29.582Z",
+                            "updatedAt": "2025-11-16T07:12:18.001Z",
+                            "fullSlug": "grocery/grocery-kitchen/attarice-dal",
+                            "__v": 1,
+                            "children": [
+                                {
+                                    "_id": "691882fce36ac32cc35bbd47",
+                                    "name": "Atta",
+                                    "slug": "a-t",
+                                    "subtitle": "",
+                                    "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763214069/uploads/ftgjp3pf2ak13rjthtdp.png",
+                                    "metaTitle": "",
+                                    "metaKeywords": "",
+                                    "metaDescription": "",
+                                    "markup": "",
+                                    "type": "SUBCATEGORY",
+                                    "parent": {
+                                        "_id": "69131d299043f888dc5b5621",
+                                        "name": "Atta,Meda, & Sooji",
+                                        "slug": "attarice-dal",
+                                        "type": "CATEGORY",
+                                        "level": 3,
+                                        "fullSlug": "grocery/grocery-kitchen/attarice-dal"
+                                    },
+                                    "ancestors": [
+                                        {
+                                            "_id": "69125a838dca74fbfecd6c2b",
+                                            "name": "Groceries",
+                                            "slug": "grocery",
+                                            "type": "MASTER",
+                                            "level": 1,
+                                            "fullSlug": "grocery"
+                                        },
+                                        {
+                                            "_id": "69125a838dca74fbfecd6c31",
+                                            "name": "Grocery & Kitchen",
+                                            "slug": "grocery-kitchen",
+                                            "type": "SUPER",
+                                            "level": 2,
+                                            "fullSlug": "grocery/grocery-kitchen"
+                                        },
+                                        {
+                                            "_id": "69131d299043f888dc5b5621",
+                                            "name": "Atta,Meda, & Sooji",
+                                            "slug": "attarice-dal",
+                                            "type": "CATEGORY",
+                                            "level": 3,
+                                            "fullSlug": "grocery/grocery-kitchen/attarice-dal"
+                                        }
+                                    ],
+                                    "path": [
+                                        "grocery",
+                                        "grocery-kitchen",
+                                        "attarice-dal",
+                                        "a-t"
+                                    ],
+                                    "level": 4,
+                                    "order": 1,
+                                    "isActive": true,
+                                    "isDeleted": false,
+                                    "deletedAt": null,
+                                    "createdAt": "2025-11-15T13:41:16.432Z",
+                                    "updatedAt": "2025-11-15T13:41:16.432Z",
+                                    "fullSlug": "grocery/grocery-kitchen/attarice-dal/a-t",
+                                    "__v": 0,
+                                    "children": []
+                                },
+                                {
+                                    "_id": "6918831ce36ac32cc35bbd62",
+                                    "name": "Sooji & Meda",
+                                    "slug": "s-m",
+                                    "subtitle": "",
+                                    "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763214103/uploads/k4lyiwch9wy1m7jxxz2u.png",
+                                    "metaTitle": "",
+                                    "metaKeywords": "",
+                                    "metaDescription": "",
+                                    "markup": "",
+                                    "type": "SUBCATEGORY",
+                                    "parent": {
+                                        "_id": "69131d299043f888dc5b5621",
+                                        "name": "Atta,Meda, & Sooji",
+                                        "slug": "attarice-dal",
+                                        "type": "CATEGORY",
+                                        "level": 3,
+                                        "fullSlug": "grocery/grocery-kitchen/attarice-dal"
+                                    },
+                                    "ancestors": [
+                                        {
+                                            "_id": "69125a838dca74fbfecd6c2b",
+                                            "name": "Groceries",
+                                            "slug": "grocery",
+                                            "type": "MASTER",
+                                            "level": 1,
+                                            "fullSlug": "grocery"
+                                        },
+                                        {
+                                            "_id": "69125a838dca74fbfecd6c31",
+                                            "name": "Grocery & Kitchen",
+                                            "slug": "grocery-kitchen",
+                                            "type": "SUPER",
+                                            "level": 2,
+                                            "fullSlug": "grocery/grocery-kitchen"
+                                        },
+                                        {
+                                            "_id": "69131d299043f888dc5b5621",
+                                            "name": "Atta,Meda, & Sooji",
+                                            "slug": "attarice-dal",
+                                            "type": "CATEGORY",
+                                            "level": 3,
+                                            "fullSlug": "grocery/grocery-kitchen/attarice-dal"
+                                        }
+                                    ],
+                                    "path": [
+                                        "grocery",
+                                        "grocery-kitchen",
+                                        "attarice-dal",
+                                        "s-m"
+                                    ],
+                                    "level": 4,
+                                    "order": 2,
+                                    "isActive": true,
+                                    "isDeleted": false,
+                                    "deletedAt": null,
+                                    "createdAt": "2025-11-15T13:41:48.927Z",
+                                    "updatedAt": "2025-11-15T13:41:48.927Z",
+                                    "fullSlug": "grocery/grocery-kitchen/attarice-dal/s-m",
+                                    "__v": 0,
+                                    "children": []
+                                },
+                                {
+                                    "_id": "6918834ee36ac32cc35bbd79",
+                                    "name": "Besan & more",
+                                    "slug": "b-m",
+                                    "subtitle": "",
+                                    "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763214151/uploads/ixwhfiawqunt0hwtgg8g.png",
+                                    "metaTitle": "",
+                                    "metaKeywords": "",
+                                    "metaDescription": "",
+                                    "markup": "",
+                                    "type": "SUBCATEGORY",
+                                    "parent": {
+                                        "_id": "69131d299043f888dc5b5621",
+                                        "name": "Atta,Meda, & Sooji",
+                                        "slug": "attarice-dal",
+                                        "type": "CATEGORY",
+                                        "level": 3,
+                                        "fullSlug": "grocery/grocery-kitchen/attarice-dal"
+                                    },
+                                    "ancestors": [
+                                        {
+                                            "_id": "69125a838dca74fbfecd6c2b",
+                                            "name": "Groceries",
+                                            "slug": "grocery",
+                                            "type": "MASTER",
+                                            "level": 1,
+                                            "fullSlug": "grocery"
+                                        },
+                                        {
+                                            "_id": "69125a838dca74fbfecd6c31",
+                                            "name": "Grocery & Kitchen",
+                                            "slug": "grocery-kitchen",
+                                            "type": "SUPER",
+                                            "level": 2,
+                                            "fullSlug": "grocery/grocery-kitchen"
+                                        },
+                                        {
+                                            "_id": "69131d299043f888dc5b5621",
+                                            "name": "Atta,Meda, & Sooji",
+                                            "slug": "attarice-dal",
+                                            "type": "CATEGORY",
+                                            "level": 3,
+                                            "fullSlug": "grocery/grocery-kitchen/attarice-dal"
+                                        }
+                                    ],
+                                    "path": [
+                                        "grocery",
+                                        "grocery-kitchen",
+                                        "attarice-dal",
+                                        "b-m"
+                                    ],
+                                    "level": 4,
+                                    "order": 3,
+                                    "isActive": true,
+                                    "isDeleted": false,
+                                    "deletedAt": null,
+                                    "createdAt": "2025-11-15T13:42:38.324Z",
+                                    "updatedAt": "2025-11-15T13:42:38.324Z",
+                                    "fullSlug": "grocery/grocery-kitchen/attarice-dal/b-m",
+                                    "__v": 0,
+                                    "children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "_id": "69125a838dca74fbfecd6c2e",
+            "name": "Cafe",
+            "slug": "cafe-fastfood",
+            "subtitle": "Top beauty products for all your needs",
+            "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1762870196/uploads/ft2yljy915zsvu961ps4.png",
+            "metaTitle": "",
+            "metaKeywords": "",
+            "metaDescription": "",
+            "markup": "<p>Explore our wide range of beauty products to look and feel your best.</p>",
+            "type": "MASTER",
+            "parent": null,
+            "ancestors": [],
+            "path": [
+                "beauty"
+            ],
+            "level": 1,
+            "order": 2,
+            "isActive": true,
+            "isDeleted": false,
+            "deletedAt": null,
+            "createdAt": "2025-11-10T21:34:59.552Z",
+            "updatedAt": "2025-11-11T14:15:27.150Z",
+            "fullSlug": "beauty",
+            "__v": 0,
+            "children": [
+                {
+                    "_id": "69134eda9043f888dc5b6742",
+                    "name": "Food",
+                    "slug": "f-food",
+                    "subtitle": "",
+                    "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1762873048/uploads/eokwpnl1spih7u27lteo.webp",
+                    "metaTitle": "",
+                    "metaKeywords": "",
+                    "metaDescription": "",
+                    "markup": "",
+                    "type": "SUPER",
+                    "parent": {
+                        "_id": "69125a838dca74fbfecd6c2e",
+                        "name": "Cafe",
+                        "slug": "cafe-fastfood",
+                        "type": "MASTER",
+                        "level": 1,
+                        "fullSlug": "beauty"
+                    },
+                    "ancestors": [
+                        {
+                            "_id": "69125a838dca74fbfecd6c2e",
+                            "name": "Cafe",
+                            "slug": "cafe-fastfood",
+                            "type": "MASTER",
+                            "level": 1,
+                            "fullSlug": "beauty"
+                        }
+                    ],
+                    "path": [
+                        "beauty",
+                        "f-food"
+                    ],
+                    "level": 2,
+                    "order": 2,
+                    "isActive": true,
+                    "isDeleted": false,
+                    "deletedAt": null,
+                    "createdAt": "2025-11-11T14:57:30.103Z",
+                    "updatedAt": "2025-11-11T14:57:30.103Z",
+                    "fullSlug": "beauty/f-food",
+                    "__v": 0,
+                    "children": [
+                        {
+                            "_id": "69134f2a9043f888dc5b67bc",
+                            "name": "Pizza",
+                            "slug": "pizza-f",
+                            "subtitle": "",
+                            "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1762873129/uploads/hnnfuudaws32xskmc65p.webp",
+                            "metaTitle": "",
+                            "metaKeywords": "",
+                            "metaDescription": "",
+                            "markup": "",
+                            "type": "CATEGORY",
+                            "parent": {
+                                "_id": "69134eda9043f888dc5b6742",
+                                "name": "Food",
+                                "slug": "f-food",
+                                "type": "SUPER",
+                                "level": 2,
+                                "fullSlug": "beauty/f-food"
+                            },
+                            "ancestors": [
+                                {
+                                    "_id": "69125a838dca74fbfecd6c2e",
+                                    "name": "Cafe",
+                                    "slug": "cafe-fastfood",
+                                    "type": "MASTER",
+                                    "level": 1,
+                                    "fullSlug": "beauty"
+                                },
+                                {
+                                    "_id": "69134eda9043f888dc5b6742",
+                                    "name": "Food",
+                                    "slug": "f-food",
+                                    "type": "SUPER",
+                                    "level": 2,
+                                    "fullSlug": "beauty/f-food"
+                                }
+                            ],
+                            "path": [
+                                "beauty",
+                                "f-food",
+                                "pizza-f"
+                            ],
+                            "level": 3,
+                            "order": 1,
+                            "isActive": true,
+                            "isDeleted": false,
+                            "deletedAt": null,
+                            "createdAt": "2025-11-11T14:58:50.223Z",
+                            "updatedAt": "2025-11-11T14:58:50.223Z",
+                            "fullSlug": "beauty/f-food/pizza-f",
+                            "__v": 0,
+                            "children": []
+                        },
+                        {
+                            "_id": "69134f5b9043f888dc5b67d5",
+                            "name": "Burger",
+                            "slug": "burger-f",
+                            "subtitle": "",
+                            "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1762873178/uploads/vg3guhiz1bqcr3axrcep.jpg",
+                            "metaTitle": "",
+                            "metaKeywords": "",
+                            "metaDescription": "",
+                            "markup": "",
+                            "type": "CATEGORY",
+                            "parent": {
+                                "_id": "69134eda9043f888dc5b6742",
+                                "name": "Food",
+                                "slug": "f-food",
+                                "type": "SUPER",
+                                "level": 2,
+                                "fullSlug": "beauty/f-food"
+                            },
+                            "ancestors": [
+                                {
+                                    "_id": "69125a838dca74fbfecd6c2e",
+                                    "name": "Cafe",
+                                    "slug": "cafe-fastfood",
+                                    "type": "MASTER",
+                                    "level": 1,
+                                    "fullSlug": "beauty"
+                                },
+                                {
+                                    "_id": "69134eda9043f888dc5b6742",
+                                    "name": "Food",
+                                    "slug": "f-food",
+                                    "type": "SUPER",
+                                    "level": 2,
+                                    "fullSlug": "beauty/f-food"
+                                }
+                            ],
+                            "path": [
+                                "beauty",
+                                "f-food",
+                                "burger-f"
+                            ],
+                            "level": 3,
+                            "order": 2,
+                            "isActive": true,
+                            "isDeleted": false,
+                            "deletedAt": null,
+                            "createdAt": "2025-11-11T14:59:39.634Z",
+                            "updatedAt": "2025-11-11T14:59:39.634Z",
+                            "fullSlug": "beauty/f-food/burger-f",
+                            "__v": 0,
+                            "children": []
+                        },
+                        {
+                            "_id": "69134fdd9043f888dc5b683c",
+                            "name": "Chines Food",
+                            "slug": "chines-food",
+                            "subtitle": "",
+                            "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1762873308/uploads/q3ib0qkrxztvdcrrbuq3.jpg",
+                            "metaTitle": "",
+                            "metaKeywords": "",
+                            "metaDescription": "",
+                            "markup": "",
+                            "type": "CATEGORY",
+                            "parent": {
+                                "_id": "69134eda9043f888dc5b6742",
+                                "name": "Food",
+                                "slug": "f-food",
+                                "type": "SUPER",
+                                "level": 2,
+                                "fullSlug": "beauty/f-food"
+                            },
+                            "ancestors": [
+                                {
+                                    "_id": "69125a838dca74fbfecd6c2e",
+                                    "name": "Cafe",
+                                    "slug": "cafe-fastfood",
+                                    "type": "MASTER",
+                                    "level": 1,
+                                    "fullSlug": "beauty"
+                                },
+                                {
+                                    "_id": "69134eda9043f888dc5b6742",
+                                    "name": "Food",
+                                    "slug": "f-food",
+                                    "type": "SUPER",
+                                    "level": 2,
+                                    "fullSlug": "beauty/f-food"
+                                }
+                            ],
+                            "path": [
+                                "beauty",
+                                "f-food",
+                                "chines-food"
+                            ],
+                            "level": 3,
+                            "order": 3,
+                            "isActive": true,
+                            "isDeleted": false,
+                            "deletedAt": null,
+                            "createdAt": "2025-11-11T15:01:49.238Z",
+                            "updatedAt": "2025-11-11T15:01:49.238Z",
+                            "fullSlug": "beauty/f-food/chines-food",
+                            "__v": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "_id": "69134ef79043f888dc5b675b",
+                    "name": "Drinks",
+                    "slug": "drink-d",
+                    "subtitle": "",
+                    "thumbnail": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1762873076/uploads/s6kozalkj2inpxxrznbw.png",
+                    "metaTitle": "",
+                    "metaKeywords": "",
+                    "metaDescription": "",
+                    "markup": "",
+                    "type": "SUPER",
+                    "parent": {
+                        "_id": "69125a838dca74fbfecd6c2e",
+                        "name": "Cafe",
+                        "slug": "cafe-fastfood",
+                        "type": "MASTER",
+                        "level": 1,
+                        "fullSlug": "beauty"
+                    },
+                    "ancestors": [
+                        {
+                            "_id": "69125a838dca74fbfecd6c2e",
+                            "name": "Cafe",
+                            "slug": "cafe-fastfood",
+                            "type": "MASTER",
+                            "level": 1,
+                            "fullSlug": "beauty"
+                        }
+                    ],
+                    "path": [
+                        "beauty",
+                        "drink-d"
+                    ],
+                    "level": 2,
+                    "order": 3,
+                    "isActive": true,
+                    "isDeleted": false,
+                    "deletedAt": null,
+                    "createdAt": "2025-11-11T14:57:59.844Z",
+                    "updatedAt": "2025-11-11T14:57:59.844Z",
+                    "fullSlug": "beauty/drink-d",
+                    "__v": 0,
+                    "children": []
+                }
+            ]
+        }
+    ],
+    "meta": {
+        "totalRoots": 6,
+        "totalDescendants": 143,
+        "totalCategories": 149,
+        "type": "MASTER"
+    }
+}

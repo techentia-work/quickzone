@@ -1,0 +1,134 @@
+[{
+  "_id": {
+    "$oid": "691601634a8ee95490b5dd0a"
+  },
+  "title": "sd1",
+  "slug": "dairy-bread-eggs",
+  "imageUrl": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763051657/uploads/rvimhbpwydjcyz76vp6v.png",
+  "color": "#ffffff",
+  "order": 1,
+  "position": "TOP",
+  "isActive": true,
+  "isClickable": false,
+  "mapType": "NONE",
+  "mappings": [],
+  "masterCategory": {
+    "$oid": "69125a838dca74fbfecd6c2b"
+  },
+  "category": {
+    "$oid": "69131b539043f888dc5b54a5"
+  },
+  "subcategory": [],
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2025-11-13T16:03:47.751Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-13T16:34:27.705Z"
+  },
+  "__v": 0,
+  "description": ""
+},
+{
+  "_id": {
+    "$oid": "691602644a8ee95490b5ddcd"
+  },
+  "title": "sdfgvb",
+  "slug": "chips-namkeen/bhujia-mixtures",
+  "imageUrl": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763052055/uploads/c6qcei5rr1kzgkmuwgag.png",
+  "color": "#ffffff",
+  "order": 2,
+  "position": "TOP",
+  "isActive": true,
+  "isClickable": false,
+  "mapType": "NONE",
+  "mappings": [],
+  "masterCategory": {
+    "$oid": "69125a838dca74fbfecd6c2b"
+  },
+  "category": {
+    "$oid": "69133c639043f888dc5b5e9a"
+  },
+  "subcategory": [
+    {
+      "$oid": "69159e7621b16c4d7533d724"
+    }
+  ],
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2025-11-13T16:08:04.047Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-13T16:41:00.446Z"
+  },
+  "__v": 0,
+  "description": ""
+},
+{
+  "_id": {
+    "$oid": "69160a3b4a8ee95490b5dfe5"
+  },
+  "title": "dsaf",
+  "slug": "dairy-bread-eggs/bread-pav",
+  "imageUrl": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763052089/uploads/yjqdf5vbpyovkvod0euc.png",
+  "color": "#ffffff",
+  "order": 3,
+  "position": "TOP",
+  "isActive": true,
+  "isClickable": false,
+  "mapType": "NONE",
+  "mappings": [],
+  "masterCategory": {
+    "$oid": "69125a838dca74fbfecd6c2b"
+  },
+  "category": {
+    "$oid": "69131b539043f888dc5b54a5"
+  },
+  "subcategory": [
+    {
+      "$oid": "6914a1c8949430af410915e1"
+    }
+  ],
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2025-11-13T16:41:31.593Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-13T16:41:31.593Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69160ae14a8ee95490b5e0bf"
+  },
+  "title": "advsadv",
+  "slug": "chips-namkeen/premium",
+  "imageUrl": "https://res.cloudinary.com/dqjixsbbt/image/upload/v1763052252/uploads/z8pexpsosi3eplljrei3.png",
+  "color": "#ffffff",
+  "order": 4,
+  "position": "TOP",
+  "isActive": true,
+  "isClickable": false,
+  "mapType": "NONE",
+  "mappings": [],
+  "masterCategory": {
+    "$oid": "69125a838dca74fbfecd6c2b"
+  },
+  "category": {
+    "$oid": "69133c639043f888dc5b5e9a"
+  },
+  "subcategory": [
+    {
+      "$oid": "6915a04221b16c4d7533d769"
+    }
+  ],
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2025-11-13T16:44:17.152Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-13T16:44:17.152Z"
+  },
+  "__v": 0
+}]

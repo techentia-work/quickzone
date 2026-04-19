@@ -1,0 +1,38 @@
+{
+  "name": "quickzone",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000Q\u0000u\u0000i\u0000c\u0000k\u0000Z\u0000o\u0000n\u0000e\u0000 \u0000-\u0000 \u0000A\u0000g\u0000r\u0000a\u0000 \u0000k\u0000a\u0000 \u0000Q\u0000u\u0000i\u0000c\u0000k\u0000C\u0000o\u0000m\u0000m\u0000e\u0000r\u0000c\u0000e\u0000 \u0000:\u0000P\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "dev": "concurrently -n SERVER,ADMIN,USER -c magenta,cyan,green \"npm run dev:server\" \"npm run wait:server && npm run dev:admin\" \"npm run wait:server && npm run dev:user\"",
+    "wait:server": "node -e \"setTimeout(()=>{}, 5000)\"",
+    "dev:server": "npm run dev --prefix server",
+    "dev:admin": "npm run dev --prefix admin-dashboard -- -p 3001",
+    "dev:user": "npm run dev --prefix user-web -- -p 3000",
+    "build": "npm run build:server && npm run build:admin && npm run build:user",
+    "build:server": "npm run build --prefix server",
+    "build:admin": "npm run build --prefix admin-dashboard",
+    "build:user": "npm run build --prefix user-web",
+    "start": "concurrently -n SERVER,ADMIN,USER -c magenta,cyan,green \"npm run start:server\" \"npm run start:admin\" \"npm run start:user\"",
+    "start:server": "npm run start --prefix server",
+    "start:admin": "npm run start --prefix admin-dashboard -- -p 3001",
+    "start:user": "npm run start --prefix user-web -- -p 3000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Team-Techentia/quickzone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Team-Techentia/quickzone/issues"
+  },
+  "homepage": "https://github.com/Team-Techentia/quickzone#readme",
+  "devDependencies": {
+    "concurrently": "^9.2.1"
+  },
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.971.0"
+  }
+}

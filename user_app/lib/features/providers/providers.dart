@@ -1,0 +1,13 @@
+export './address/address_provider.dart';
+export './auth/auth_provider.dart';
+export './banner/banner_provider.dart';
+export './category/category_provider.dart';
+export './cart/cart_provider.dart';
+export './featured/featured_provider.dart';
+export './order/order_provider.dart';
+export './product/product_provider.dart';
+export './slider/slider_provider.dart';
+export './promocode/promocode_provider.dart';
+// export './user/user_provider.dart';
+export './wishlist/wishlist_provider.dart';
+export './snackbar/snackbar_provider.dart';

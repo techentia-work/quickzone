@@ -1,0 +1,20 @@
+export { Category } from "./category/category.model";
+export { Product } from "./product/product.model";
+export { Seller } from "./seller/seller.model";
+export { User } from "./user/user.model";
+export { OTP } from "./otp/otp.model";
+export { Cart } from "./cart/cart.models";
+export { PromoCode } from "./promocode/promocode.model";
+export { Address } from "./address/address.model";
+export { Order } from "./order/order.model";
+export { FeaturedSection, Banner, Slider } from "./featured/featured.model";
+export { DeliveryBoy } from "./deliveryboy/deliveryboy.model";
+export { Wallet } from "./wallet/wallet.model";
+export { Wishlist } from "./wishlist/wishlist.model";
+export { Transaction } from "./transaction/transaction.model";
+export { AdminSetting } from "./adminSettings/adminSettings.model";
+export { Brand } from "./brand/brand.model";
+export { FeaturedWeekBrand } from "./featuredWeekBrand/featuredWeekBrand.model";
+export { BrandOfTheDay } from "./brandOfTheDay/brandOfTheDay.modal"; // Note: .modal.js matching file
+export { ShopByStore } from "./shopByStore/shopByStore.model";
+export { ShowcaseProduct } from "./showCaseProducts/showCaseProducts.model";
